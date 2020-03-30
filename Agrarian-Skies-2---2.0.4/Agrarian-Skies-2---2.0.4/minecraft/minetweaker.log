@@ -1,0 +1,3418 @@
+ERROR: system: AutoSpawner is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command exnihilo
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
+INFO: Adding minetweaker command thermalexpansion
+INFO: Adding minetweaker command mfr
+INFO: Adding Blood Altar Recipe for Spawn Pig
+INFO: Adding Blood Altar Recipe for Spawn Sheep
+INFO: Adding Blood Altar Recipe for Spawn Mooshroom
+INFO: Adding Blood Altar Recipe for Spawn Eldritch Guardian
+INFO: Adding Alchemy Recipe for Spawn Chicken
+INFO: Adding Alchemy Recipe for Spawn Cow
+INFO: Adding Blood Altar Recipe for Life Shard
+INFO: Adding Blood Altar Recipe for Primal Mana Bucket
+INFO: Adding Alchemy Recipe for Soul Shard
+INFO: Adding Alchemy Recipe for Blaze Rod
+INFO: Adding Alchemy Recipe for Extra Life
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Sacrificial Orb
+INFO: Adding recipe for Blood Altar
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:soul_sand> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:soul_sand> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:snow> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <exnihilo:exnihilo.gravel_nether> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <exnihilo:exnihilo.gravel_nether> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <exnihilo:exnihilo.gravel_nether> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <Natura:heatsand> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <Natura:heatsand> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <Natura:heatsand> (1 entries)
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Adding recipe for Fresh Water
+INFO: Adding recipe for Fresh Water
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Upgrade (Gold)
+INFO: Adding recipe for Upgrade (Quartz)
+INFO: Adding recipe for Upgrade (Diamond)
+INFO: Adding recipe for Upgrade (Platinum)
+INFO: Adding recipe for Upgrade (Emerald)
+INFO: Adding recipe for Clay
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Spruce Wood Planks
+INFO: Adding recipe for Birch Wood Planks
+INFO: Adding recipe for Jungle Wood Planks
+INFO: Adding recipe for Acacia Wood Planks
+INFO: Adding recipe for Dark Oak Wood Planks
+INFO: Adding recipe for Sandstone
+INFO: Adding recipe for Cobblestone
+INFO: Adding recipe for Bricks
+INFO: Adding recipe for Stone Bricks
+INFO: Adding recipe for Nether Brick
+INFO: Adding recipe for Block of Quartz
+INFO: Hiding tile.spectralBlock in NEI
+INFO: Hiding tile.schematicSaver in NEI
+INFO: Hiding tile.lifeEssenceFluidBlock in NEI
+INFO: Hiding tile.blockSpectralContainer in NEI
+INFO: Hiding tile.blockBloodLightSource in NEI
+INFO: Hiding tile.blockMimic in NEI
+INFO: Hiding item.creativeDagger in NEI
+INFO: Hiding item.itemDiabloKey in NEI
+INFO: Hiding item.cheatyItem in NEI
+INFO: Hiding item.activationCrystalCreative in NEI
+INFO: Hiding item.AccidentallyCircumstantialEvents_identifier in NEI
+INFO: Hiding item.appliedenergistics2.ItemFacade in NEI
+INFO: Hiding item.appliedenergistics2.ItemCreativeStorageCell in NEI
+INFO: Hiding tile.appliedenergistics2.BlockCableBus in NEI
+INFO: Hiding tile.appliedenergistics2.BlockPaint in NEI
+INFO: Hiding tile.appliedenergistics2.BlockCreativeEnergyCell in NEI
+INFO: Hiding tile.appliedenergistics2.QuartzSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.SkyStoneBrickSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.SkyStoneBlockSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.QuartzPillarSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.SkyStoneSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.ChiseledQuartzSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.SkyStoneSmallBrickSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.FluixSlabBlock in NEI
+INFO: Hiding item.appliedenergistics2.ItemEncodedPattern in NEI
+INFO: Hiding item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Hiding item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Hiding item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Hiding item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Hiding item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.aroma1997core:wrenched in NEI
+INFO: Hiding tile.blockFluidVishroom in NEI
+INFO: Hiding tile.blockFluidMushroom in NEI
+INFO: Hiding tile.blockFluidMilk in NEI
+INFO: Hiding item.creativeTool.0 in NEI
+INFO: Hiding tile.blockCreativeJar.32767 in NEI
+INFO: Hiding item.Ring.0 in NEI
+INFO: Hiding tile.BiblioClipboard in NEI
+INFO: Hiding item.AtlasPlate in NEI
+INFO: Hiding item.EnchantedPlate in NEI
+INFO: Hiding item.TesterItem in NEI
+INFO: Hiding item.BiblioCreativeLock in NEI
+INFO: Hiding item.RecipeBook in NEI
+INFO: Hiding OakBookcase in NEI
+INFO: Hiding SpruceBookcase in NEI
+INFO: Hiding BirchBookcase in NEI
+INFO: Hiding JungleBookcase in NEI
+INFO: Hiding AcaciaBookcase in NEI
+INFO: Hiding OldOakBookcase in NEI
+INFO: Hiding FrameBookcase in NEI
+INFO: Hiding item.betterquesting.guide in NEI
+INFO: Hiding item.betterquesting.placeholder in NEI
+INFO: Hiding item.bq_standard.loot_chest in NEI
+INFO: Hiding item.bq_standard.loot_chest in NEI
+INFO: Hiding tile.fluid.yellorium.still in NEI
+INFO: Hiding tile.fluid.cyanite.still in NEI
+INFO: Hiding item.beefDebugTool in NEI
+INFO: Hiding item.bucket.cyanite in NEI
+INFO: Hiding item.bucket.yellorium in NEI
+INFO: Hiding tile.blockMBCreativePart.32767 in NEI
+INFO: Hiding tile.blockTurbinePart.5 in NEI
+INFO: Hiding tile.blockReactorPart.7 in NEI
+INFO: Hiding tile.pool1 in NEI
+INFO: Hiding tile.enchanter in NEI
+INFO: Hiding tile.platform2 in NEI
+INFO: Hiding tile.solidVine in NEI
+INFO: Hiding tile.manaFlame in NEI
+INFO: Hiding tile.botania:quartzSlabDarkFull in NEI
+INFO: Hiding tile.botania:quartzSlabBlazeFull in NEI
+INFO: Hiding tile.botania:quartzSlabElfFull in NEI
+INFO: Hiding tile.botania:livingwood0SlabFull in NEI
+INFO: Hiding tile.botania:livingrock0SlabFull in NEI
+INFO: Hiding tile.botania:livingrock1SlabFull in NEI
+INFO: Hiding tile.botania:dreamwood0SlabFull in NEI
+INFO: Hiding tile.botania:dreamwood1SlabFull in NEI
+INFO: Hiding tile.botania:quartzSlabManaFull in NEI
+INFO: Hiding tile.botania:reedBlock0SlabFull in NEI
+INFO: Hiding tile.botania:thatch0SlabFull in NEI
+INFO: Hiding tile.botania:prismarine2SlabFull in NEI
+INFO: Hiding tile.botania:customBrick0SlabFull in NEI
+INFO: Hiding tile.botania:customBrick1SlabFull in NEI
+INFO: Hiding tile.botania:customBrick2SlabFull in NEI
+INFO: Hiding tile.botania:customBrick3SlabFull in NEI
+INFO: Hiding tile.botania:dirtPath0SlabFull in NEI
+INFO: Hiding tile.botania:endStoneBrick0SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA4SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA5SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA6SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA7SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA8SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA9SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA10SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA11SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA12SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA13SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA14SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA15SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB0SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB1SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB2SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB4SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB5SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB6SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB7SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB3SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA0SlabFull in NEI
+INFO: Hiding tile.botania:quartzSlabRedFull in NEI
+INFO: Hiding tile.buriedPetals0 in NEI
+INFO: Hiding tile.botania:prismarine0SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA3SlabFull in NEI
+INFO: Hiding tile.botania:prismarine1SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA1SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA2SlabFull in NEI
+INFO: Hiding tile.botania:quartzSlabLavenderFull in NEI
+INFO: Hiding tile.botania:livingwood1SlabFull in NEI
+INFO: Hiding tile.botania:stone2SlabFull in NEI
+INFO: Hiding tile.botania:quartzSlabSunnyFull in NEI
+INFO: Hiding tile.fakeAir in NEI
+INFO: Hiding tile.botania:stone3SlabFull in NEI
+INFO: Hiding tile.botania:stone10SlabFull in NEI
+INFO: Hiding tile.botania:stone11SlabFull in NEI
+INFO: Hiding tile.botania:stone0SlabFull in NEI
+INFO: Hiding tile.botania:stone8SlabFull in NEI
+INFO: Hiding tile.botania:stone1SlabFull in NEI
+INFO: Hiding tile.botania:stone9SlabFull in NEI
+INFO: Hiding tile.botania:pavement1SlabFull in NEI
+INFO: Hiding tile.botania:pavement4SlabFull in NEI
+INFO: Hiding tile.gaiaHeadBlock in NEI
+INFO: Hiding tile.botania:pavement3SlabFull in NEI
+INFO: Hiding tile.botania:pavement2SlabFull in NEI
+INFO: Hiding tile.botania:endStoneBrick2SlabFull in NEI
+INFO: Hiding tile.cacophoniumBlock in NEI
+INFO: Hiding tile.root in NEI
+INFO: Hiding tile.botania:shimmerwoodPlanks0SlabFull in NEI
+INFO: Hiding tile.botania:pavement5SlabFull in NEI
+INFO: Hiding tile.botania:shimmerrock0SlabFull in NEI
+INFO: Hiding tile.botania:pavement0SlabFull in NEI
+INFO: Hiding item.manaTablet in NEI
+INFO: Hiding item.gaiaHead in NEI
+INFO: Hiding item.waterBowl in NEI
+INFO: Hiding tile.blockCarpentersBed in NEI
+INFO: Hiding tile.blockCarpentersDoor in NEI
+INFO: Hiding tile.chisel.bloodBrick in NEI
+INFO: Hiding item.upgrade_reversion.name in NEI
+INFO: Hiding item.cookingbook:toast in NEI
+INFO: Hiding tile.chargePad.0 in NEI
+INFO: Hiding tile.healthPad.0 in NEI
+INFO: Hiding item.endertech.exchanger.exchangerCreative in NEI
+INFO: Hiding exnihilo.leaves.infested.oak in NEI
+INFO: Hiding exnihilo.witchwater in NEI
+INFO: Hiding item.ice_shard in NEI
+INFO: Hiding item.extratic.gear in NEI
+INFO: Hiding tile.molten.fairy in NEI
+INFO: Hiding tile.molten.dark.steel in NEI
+INFO: Hiding tile.molten.red.aurum in NEI
+INFO: Hiding tile.molten.zinc in NEI
+INFO: Hiding tile.null in NEI
+INFO: Hiding tile.molten.pokefennium in NEI
+INFO: Hiding tile.molten.brass in NEI
+INFO: Hiding tile.molten.adamantine in NEI
+INFO: Hiding tile.molten.elementium in NEI
+INFO: Hiding tile.molten.manasteel in NEI
+INFO: Hiding tile.molten.terrasteel in NEI
+INFO: Hiding tile.molten.voidmetal in NEI
+INFO: Hiding tile.molten.witheriron in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.drulloy.ingot in NEI
+INFO: Hiding item.extratic.bucket in NEI
+INFO: Hiding item.bloodwood.arrowhead in NEI
+INFO: Hiding item.bloodwood.axe.head in NEI
+INFO: Hiding item.bloodwood.battle.sign in NEI
+INFO: Hiding item.bloodwood.binding in NEI
+INFO: Hiding item.bloodwood.bolt in NEI
+INFO: Hiding item.bloodwood.bow.limb in NEI
+INFO: Hiding item.bloodwood.chisel.head in NEI
+INFO: Hiding item.bloodwood.chunk in NEI
+INFO: Hiding item.bloodwood.crossbar in NEI
+INFO: Hiding item.bloodwood.crossbow.body in NEI
+INFO: Hiding item.bloodwood.crossbow.limb in NEI
+INFO: Hiding item.bloodwood.excavator.head in NEI
+INFO: Hiding item.bloodwood.frypan.head in NEI
+INFO: Hiding item.bloodwood.full.guard in NEI
+INFO: Hiding item.bloodwood.hammer.head in NEI
+INFO: Hiding item.bloodwood.knife.blade in NEI
+INFO: Hiding item.bloodwood.large.guard in NEI
+INFO: Hiding item.bloodwood.largeplate in NEI
+INFO: Hiding item.bloodwood.large.sword.blade in NEI
+INFO: Hiding item.bloodwood.lumberaxe.head in NEI
+INFO: Hiding item.bloodwood.medium.guard in NEI
+INFO: Hiding item.bloodwood.pickaxe.head in NEI
+INFO: Hiding item.bloodwood.scythe.head in NEI
+INFO: Hiding item.bloodwood.shovel.head in NEI
+INFO: Hiding item.bloodwood.shuriken in NEI
+INFO: Hiding item.bloodwood.sword.blade in NEI
+INFO: Hiding item.bloodwood.toolrod in NEI
+INFO: Hiding item.bloodwood.toughbind in NEI
+INFO: Hiding item.bloodwood.toughrod in NEI
+INFO: Hiding item.darkwood.arrowhead in NEI
+INFO: Hiding item.darkwood.axe.head in NEI
+INFO: Hiding item.darkwood.battle.sign in NEI
+INFO: Hiding item.darkwood.binding in NEI
+INFO: Hiding item.darkwood.bolt in NEI
+INFO: Hiding item.darkwood.bow.limb in NEI
+INFO: Hiding item.darkwood.chisel.head in NEI
+INFO: Hiding item.darkwood.chunk in NEI
+INFO: Hiding item.darkwood.crossbar in NEI
+INFO: Hiding item.darkwood.crossbow.body in NEI
+INFO: Hiding item.darkwood.crossbow.limb in NEI
+INFO: Hiding item.darkwood.excavator.head in NEI
+INFO: Hiding item.darkwood.frypan.head in NEI
+INFO: Hiding item.darkwood.full.guard in NEI
+INFO: Hiding item.darkwood.hammer.head in NEI
+INFO: Hiding item.darkwood.knife.blade in NEI
+INFO: Hiding item.darkwood.large.guard in NEI
+INFO: Hiding item.darkwood.largeplate in NEI
+INFO: Hiding item.darkwood.large.sword.blade in NEI
+INFO: Hiding item.darkwood.lumberaxe.head in NEI
+INFO: Hiding item.darkwood.medium.guard in NEI
+INFO: Hiding item.darkwood.pickaxe.head in NEI
+INFO: Hiding item.darkwood.scythe.head in NEI
+INFO: Hiding item.darkwood.shovel.head in NEI
+INFO: Hiding item.darkwood.shuriken in NEI
+INFO: Hiding item.darkwood.sword.blade in NEI
+INFO: Hiding item.darkwood.toolrod in NEI
+INFO: Hiding item.darkwood.toughbind in NEI
+INFO: Hiding item.darkwood.toughrod in NEI
+INFO: Hiding item.fusewood.arrowhead in NEI
+INFO: Hiding item.fusewood.axe.head in NEI
+INFO: Hiding item.fusewood.battle.sign in NEI
+INFO: Hiding item.fusewood.binding in NEI
+INFO: Hiding item.fusewood.bolt in NEI
+INFO: Hiding item.fusewood.bow.limb in NEI
+INFO: Hiding item.fusewood.chisel.head in NEI
+INFO: Hiding item.fusewood.chunk in NEI
+INFO: Hiding item.fusewood.crossbar in NEI
+INFO: Hiding item.fusewood.crossbow.body in NEI
+INFO: Hiding item.fusewood.crossbow.limb in NEI
+INFO: Hiding item.fusewood.excavator.head in NEI
+INFO: Hiding item.fusewood.frypan.head in NEI
+INFO: Hiding item.fusewood.full.guard in NEI
+INFO: Hiding item.fusewood.hammer.head in NEI
+INFO: Hiding item.fusewood.knife.blade in NEI
+INFO: Hiding item.fusewood.large.guard in NEI
+INFO: Hiding item.fusewood.largeplate in NEI
+INFO: Hiding item.fusewood.large.sword.blade in NEI
+INFO: Hiding item.fusewood.lumberaxe.head in NEI
+INFO: Hiding item.fusewood.medium.guard in NEI
+INFO: Hiding item.fusewood.pickaxe.head in NEI
+INFO: Hiding item.fusewood.scythe.head in NEI
+INFO: Hiding item.fusewood.shovel.head in NEI
+INFO: Hiding item.fusewood.shuriken in NEI
+INFO: Hiding item.fusewood.sword.blade in NEI
+INFO: Hiding item.fusewood.toolrod in NEI
+INFO: Hiding item.fusewood.toughbind in NEI
+INFO: Hiding item.fusewood.toughrod in NEI
+INFO: Hiding item.ghostwood.arrowhead in NEI
+INFO: Hiding item.ghostwood.axe.head in NEI
+INFO: Hiding item.ghostwood.battle.sign in NEI
+INFO: Hiding item.ghostwood.binding in NEI
+INFO: Hiding item.ghostwood.bolt in NEI
+INFO: Hiding item.ghostwood.bow.limb in NEI
+INFO: Hiding item.ghostwood.chisel.head in NEI
+INFO: Hiding item.ghostwood.chunk in NEI
+INFO: Hiding item.ghostwood.crossbar in NEI
+INFO: Hiding item.ghostwood.crossbow.body in NEI
+INFO: Hiding item.ghostwood.crossbow.limb in NEI
+INFO: Hiding item.ghostwood.excavator.head in NEI
+INFO: Hiding item.ghostwood.frypan.head in NEI
+INFO: Hiding item.ghostwood.full.guard in NEI
+INFO: Hiding item.ghostwood.hammer.head in NEI
+INFO: Hiding item.ghostwood.knife.blade in NEI
+INFO: Hiding item.ghostwood.large.guard in NEI
+INFO: Hiding item.ghostwood.largeplate in NEI
+INFO: Hiding item.ghostwood.large.sword.blade in NEI
+INFO: Hiding item.ghostwood.lumberaxe.head in NEI
+INFO: Hiding item.ghostwood.medium.guard in NEI
+INFO: Hiding item.ghostwood.pickaxe.head in NEI
+INFO: Hiding item.ghostwood.scythe.head in NEI
+INFO: Hiding item.ghostwood.shovel.head in NEI
+INFO: Hiding item.ghostwood.shuriken in NEI
+INFO: Hiding item.ghostwood.sword.blade in NEI
+INFO: Hiding item.ghostwood.toolrod in NEI
+INFO: Hiding item.ghostwood.toughbind in NEI
+INFO: Hiding item.ghostwood.toughrod in NEI
+INFO: Hiding item.elementium.arrowhead in NEI
+INFO: Hiding item.elementium.axe.head in NEI
+INFO: Hiding item.elementium.battle.sign in NEI
+INFO: Hiding item.elementium.binding in NEI
+INFO: Hiding item.elementium.bolt in NEI
+INFO: Hiding item.elementium.bow.limb in NEI
+INFO: Hiding item.elementium.chisel.head in NEI
+INFO: Hiding item.elementium.chunk in NEI
+INFO: Hiding item.elementium.crossbar in NEI
+INFO: Hiding item.elementium.crossbow.body in NEI
+INFO: Hiding item.elementium.crossbow.limb in NEI
+INFO: Hiding item.elementium.excavator.head in NEI
+INFO: Hiding item.elementium.frypan.head in NEI
+INFO: Hiding item.elementium.full.guard in NEI
+INFO: Hiding item.elementium.hammer.head in NEI
+INFO: Hiding item.elementium.knife.blade in NEI
+INFO: Hiding item.elementium.large.guard in NEI
+INFO: Hiding item.elementium.largeplate in NEI
+INFO: Hiding item.elementium.large.sword.blade in NEI
+INFO: Hiding item.elementium.lumberaxe.head in NEI
+INFO: Hiding item.elementium.medium.guard in NEI
+INFO: Hiding item.elementium.pickaxe.head in NEI
+INFO: Hiding item.elementium.scythe.head in NEI
+INFO: Hiding item.elementium.shovel.head in NEI
+INFO: Hiding item.elementium.shuriken in NEI
+INFO: Hiding item.elementium.sword.blade in NEI
+INFO: Hiding item.elementium.toolrod in NEI
+INFO: Hiding item.elementium.toughbind in NEI
+INFO: Hiding item.elementium.toughrod in NEI
+INFO: Hiding item.amethyst.arrowhead in NEI
+INFO: Hiding item.amethyst.axe.head in NEI
+INFO: Hiding item.amethyst.battle.sign in NEI
+INFO: Hiding item.amethyst.binding in NEI
+INFO: Hiding item.amethyst.bolt in NEI
+INFO: Hiding item.amethyst.bow.limb in NEI
+INFO: Hiding item.amethyst.chisel.head in NEI
+INFO: Hiding item.amethyst.chunk in NEI
+INFO: Hiding item.amethyst.crossbar in NEI
+INFO: Hiding item.amethyst.crossbow.body in NEI
+INFO: Hiding item.amethyst.crossbow.limb in NEI
+INFO: Hiding item.amethyst.excavator.head in NEI
+INFO: Hiding item.amethyst.frypan.head in NEI
+INFO: Hiding item.amethyst.full.guard in NEI
+INFO: Hiding item.amethyst.hammer.head in NEI
+INFO: Hiding item.amethyst.knife.blade in NEI
+INFO: Hiding item.amethyst.large.guard in NEI
+INFO: Hiding item.amethyst.largeplate in NEI
+INFO: Hiding item.amethyst.large.sword.blade in NEI
+INFO: Hiding item.amethyst.lumberaxe.head in NEI
+INFO: Hiding item.amethyst.medium.guard in NEI
+INFO: Hiding item.amethyst.pickaxe.head in NEI
+INFO: Hiding item.amethyst.scythe.head in NEI
+INFO: Hiding item.amethyst.shovel.head in NEI
+INFO: Hiding item.amethyst.shuriken in NEI
+INFO: Hiding item.amethyst.sword.blade in NEI
+INFO: Hiding item.amethyst.toolrod in NEI
+INFO: Hiding item.amethyst.toughbind in NEI
+INFO: Hiding item.amethyst.toughrod in NEI
+INFO: Hiding item.peridot.arrowhead in NEI
+INFO: Hiding item.peridot.axe.head in NEI
+INFO: Hiding item.peridot.battle.sign in NEI
+INFO: Hiding item.peridot.binding in NEI
+INFO: Hiding item.peridot.bolt in NEI
+INFO: Hiding item.peridot.bow.limb in NEI
+INFO: Hiding item.peridot.chisel.head in NEI
+INFO: Hiding item.peridot.chunk in NEI
+INFO: Hiding item.peridot.crossbar in NEI
+INFO: Hiding item.peridot.crossbow.body in NEI
+INFO: Hiding item.peridot.crossbow.limb in NEI
+INFO: Hiding item.peridot.excavator.head in NEI
+INFO: Hiding item.peridot.frypan.head in NEI
+INFO: Hiding item.peridot.full.guard in NEI
+INFO: Hiding item.peridot.hammer.head in NEI
+INFO: Hiding item.peridot.knife.blade in NEI
+INFO: Hiding item.peridot.large.guard in NEI
+INFO: Hiding item.peridot.largeplate in NEI
+INFO: Hiding item.peridot.large.sword.blade in NEI
+INFO: Hiding item.peridot.lumberaxe.head in NEI
+INFO: Hiding item.peridot.medium.guard in NEI
+INFO: Hiding item.peridot.pickaxe.head in NEI
+INFO: Hiding item.peridot.scythe.head in NEI
+INFO: Hiding item.peridot.shovel.head in NEI
+INFO: Hiding item.peridot.shuriken in NEI
+INFO: Hiding item.peridot.sword.blade in NEI
+INFO: Hiding item.peridot.toolrod in NEI
+INFO: Hiding item.peridot.toughbind in NEI
+INFO: Hiding item.peridot.toughrod in NEI
+INFO: Hiding item.ruby.arrowhead in NEI
+INFO: Hiding item.ruby.axe.head in NEI
+INFO: Hiding item.ruby.battle.sign in NEI
+INFO: Hiding item.ruby.binding in NEI
+INFO: Hiding item.ruby.bolt in NEI
+INFO: Hiding item.ruby.bow.limb in NEI
+INFO: Hiding item.ruby.chisel.head in NEI
+INFO: Hiding item.ruby.chunk in NEI
+INFO: Hiding item.ruby.crossbar in NEI
+INFO: Hiding item.ruby.crossbow.body in NEI
+INFO: Hiding item.ruby.crossbow.limb in NEI
+INFO: Hiding item.ruby.excavator.head in NEI
+INFO: Hiding item.ruby.frypan.head in NEI
+INFO: Hiding item.ruby.full.guard in NEI
+INFO: Hiding item.ruby.hammer.head in NEI
+INFO: Hiding item.ruby.knife.blade in NEI
+INFO: Hiding item.ruby.large.guard in NEI
+INFO: Hiding item.ruby.largeplate in NEI
+INFO: Hiding item.ruby.large.sword.blade in NEI
+INFO: Hiding item.ruby.lumberaxe.head in NEI
+INFO: Hiding item.ruby.medium.guard in NEI
+INFO: Hiding item.ruby.pickaxe.head in NEI
+INFO: Hiding item.ruby.scythe.head in NEI
+INFO: Hiding item.ruby.shovel.head in NEI
+INFO: Hiding item.ruby.shuriken in NEI
+INFO: Hiding item.ruby.sword.blade in NEI
+INFO: Hiding item.ruby.toolrod in NEI
+INFO: Hiding item.ruby.toughbind in NEI
+INFO: Hiding item.ruby.toughrod in NEI
+INFO: Hiding item.sapphire.arrowhead in NEI
+INFO: Hiding item.sapphire.axe.head in NEI
+INFO: Hiding item.sapphire.battle.sign in NEI
+INFO: Hiding item.sapphire.binding in NEI
+INFO: Hiding item.sapphire.bolt in NEI
+INFO: Hiding item.sapphire.bow.limb in NEI
+INFO: Hiding item.sapphire.chisel.head in NEI
+INFO: Hiding item.sapphire.chunk in NEI
+INFO: Hiding item.sapphire.crossbar in NEI
+INFO: Hiding item.sapphire.crossbow.body in NEI
+INFO: Hiding item.sapphire.crossbow.limb in NEI
+INFO: Hiding item.sapphire.excavator.head in NEI
+INFO: Hiding item.sapphire.frypan.head in NEI
+INFO: Hiding item.sapphire.full.guard in NEI
+INFO: Hiding item.sapphire.hammer.head in NEI
+INFO: Hiding item.sapphire.knife.blade in NEI
+INFO: Hiding item.sapphire.large.guard in NEI
+INFO: Hiding item.sapphire.largeplate in NEI
+INFO: Hiding item.sapphire.large.sword.blade in NEI
+INFO: Hiding item.sapphire.lumberaxe.head in NEI
+INFO: Hiding item.sapphire.medium.guard in NEI
+INFO: Hiding item.sapphire.pickaxe.head in NEI
+INFO: Hiding item.sapphire.scythe.head in NEI
+INFO: Hiding item.sapphire.shovel.head in NEI
+INFO: Hiding item.sapphire.shuriken in NEI
+INFO: Hiding item.sapphire.sword.blade in NEI
+INFO: Hiding item.sapphire.toolrod in NEI
+INFO: Hiding item.sapphire.toughbind in NEI
+INFO: Hiding item.sapphire.toughrod in NEI
+INFO: Hiding item.dark.steel.arrowhead in NEI
+INFO: Hiding item.dark.steel.axe.head in NEI
+INFO: Hiding item.dark.steel.battle.sign in NEI
+INFO: Hiding item.dark.steel.binding in NEI
+INFO: Hiding item.dark.steel.bolt in NEI
+INFO: Hiding item.dark.steel.bow.limb in NEI
+INFO: Hiding item.dark.steel.chisel.head in NEI
+INFO: Hiding item.dark.steel.chunk in NEI
+INFO: Hiding item.dark.steel.crossbar in NEI
+INFO: Hiding item.dark.steel.crossbow.body in NEI
+INFO: Hiding item.dark.steel.crossbow.limb in NEI
+INFO: Hiding item.dark.steel.excavator.head in NEI
+INFO: Hiding item.dark.steel.frypan.head in NEI
+INFO: Hiding item.dark.steel.full.guard in NEI
+INFO: Hiding item.dark.steel.hammer.head in NEI
+INFO: Hiding item.dark.steel.knife.blade in NEI
+INFO: Hiding item.dark.steel.large.guard in NEI
+INFO: Hiding item.dark.steel.largeplate in NEI
+INFO: Hiding item.dark.steel.large.sword.blade in NEI
+INFO: Hiding item.dark.steel.lumberaxe.head in NEI
+INFO: Hiding item.dark.steel.medium.guard in NEI
+INFO: Hiding item.dark.steel.pickaxe.head in NEI
+INFO: Hiding item.dark.steel.scythe.head in NEI
+INFO: Hiding item.dark.steel.shovel.head in NEI
+INFO: Hiding item.dark.steel.shuriken in NEI
+INFO: Hiding item.dark.steel.sword.blade in NEI
+INFO: Hiding item.dark.steel.toolrod in NEI
+INFO: Hiding item.dark.steel.toughbind in NEI
+INFO: Hiding item.dark.steel.toughrod in NEI
+INFO: Hiding tile.extrautils:drum.0 in NEI
+INFO: Hiding item.extrautils:microblocks.0 in NEI
+INFO: Hiding item.extrautils:nodeUpgrade.4 in NEI
+INFO: Hiding tile.sign in NEI
+INFO: Hiding tile.TaintLeaves in NEI
+INFO: Hiding tile.ArcaneCake in NEI
+INFO: Hiding item.TaintFruit in NEI
+INFO: Hiding item.FMResource.2 in NEI
+INFO: Hiding item.FMResource.3 in NEI
+INFO: Hiding item.FMResource.4 in NEI
+INFO: Hiding item.WandCaps.vinteum in NEI
+INFO: Hiding item.WandCores.witchwood_staff in NEI
+INFO: Hiding item.WandCores.witchwood in NEI
+INFO: Hiding tile.InkFlower in NEI
+INFO: Hiding tile.forestry.fluid.bioethanol in NEI
+INFO: Hiding tile.forestry.fluid.biomass in NEI
+INFO: Hiding tile.forestry.fluid.glass in NEI
+INFO: Hiding tile.forestry.fluid.for.honey in NEI
+INFO: Hiding tile.forestry.fluid.ice in NEI
+INFO: Hiding tile.forestry.fluid.juice in NEI
+INFO: Hiding tile.forestry.fluid.seedoil in NEI
+INFO: Hiding tile.forestry.fluid.short.mead in NEI
+INFO: Hiding tile.for.stump.0 in NEI
+INFO: Hiding tile.for.saplingGE.0 in NEI
+INFO: Hiding tile.for.leaves.0 in NEI
+INFO: Hiding tile.for.pods.0 in NEI
+INFO: Hiding tile.for.mushroom.1 in NEI
+INFO: Hiding tile.for.slabsDoubleFireproof.32767 in NEI
+INFO: Hiding tile.for.slabsDouble.32767 in NEI
+INFO: Hiding item.for.grafterProven in NEI
+INFO: Hiding item.microblock in NEI
+INFO: Hiding tile.gendustry.mutagen in NEI
+INFO: Hiding tile.gendustry.liquiddna in NEI
+INFO: Hiding tile.gendustry.protein in NEI
+INFO: Hiding item.gendustry.HiveSpawnDebugger in NEI
+INFO: Hiding item.chocolaterollItem in NEI
+INFO: Hiding tile.pamcurryleafCrop in NEI
+INFO: Hiding tile.pamsesameseedsCrop in NEI
+INFO: Hiding tile.pamwaterchestnutCrop in NEI
+INFO: Hiding tile.ovenon in NEI
+INFO: Hiding tile.cuttingboard in NEI
+INFO: Hiding tile.pot in NEI
+INFO: Hiding tile.quernon in NEI
+INFO: Hiding tile.pampumpkincheeseCake in NEI
+INFO: Hiding tile.pambarleyCrop in NEI
+INFO: Hiding tile.pamholidayCake in NEI
+INFO: Hiding tile.pampavlovaCake in NEI
+INFO: Hiding tile.pamlamingtonCake in NEI
+INFO: Hiding tile.pamredvelvetCake in NEI
+INFO: Hiding tile.pamchocolatesprinkleCake in NEI
+INFO: Hiding tile.pampineappleupsidedownCake in NEI
+INFO: Hiding tile.pamcherrycheeseCake in NEI
+INFO: Hiding tile.pamcheeseCake in NEI
+INFO: Hiding tile.pamcarrotCake in NEI
+INFO: Hiding tile.pamseaweedCrop in NEI
+INFO: Hiding tile.pamriceCrop in NEI
+INFO: Hiding tile.pamcranberryCrop in NEI
+INFO: Hiding tile.pamkiwiCrop in NEI
+INFO: Hiding tile.pamgrapeCrop in NEI
+INFO: Hiding tile.pampineappleCrop in NEI
+INFO: Hiding tile.pamcottonCrop in NEI
+INFO: Hiding tile.pamwhitemushroomCrop in NEI
+INFO: Hiding tile.pambeanCrop in NEI
+INFO: Hiding tile.pamsoybeanCrop in NEI
+INFO: Hiding tile.pambellpepperCrop in NEI
+INFO: Hiding tile.pamchilipepperCrop in NEI
+INFO: Hiding tile.pameggplantCrop in NEI
+INFO: Hiding tile.pamokraCrop in NEI
+INFO: Hiding tile.pampeasCrop in NEI
+INFO: Hiding tile.pamtomatoCrop in NEI
+INFO: Hiding tile.pamspinachCrop in NEI
+INFO: Hiding tile.pamcabbageCrop in NEI
+INFO: Hiding tile.pambrusselsproutCrop in NEI
+INFO: Hiding tile.pamartichokeCrop in NEI
+INFO: Hiding tile.pamscallionCrop in NEI
+INFO: Hiding tile.pamlettuceCrop in NEI
+INFO: Hiding tile.pamleekCrop in NEI
+INFO: Hiding tile.pamcauliflowerCrop in NEI
+INFO: Hiding tile.pambroccoliCrop in NEI
+INFO: Hiding tile.pamturnipCrop in NEI
+INFO: Hiding tile.pamrhubarbCrop in NEI
+INFO: Hiding tile.pamceleryCrop in NEI
+INFO: Hiding tile.pamgarlicCrop in NEI
+INFO: Hiding tile.pamgingerCrop in NEI
+INFO: Hiding tile.pamspiceleafCrop in NEI
+INFO: Hiding tile.pamtealeafCrop in NEI
+INFO: Hiding tile.pamcoffeebeanCrop in NEI
+INFO: Hiding tile.pammustardseedsCrop in NEI
+INFO: Hiding tile.pamsweetpotatoCrop in NEI
+INFO: Hiding tile.pamrutabagaCrop in NEI
+INFO: Hiding tile.pamradishCrop in NEI
+INFO: Hiding tile.pampeanutCrop in NEI
+INFO: Hiding tile.pamparsnipCrop in NEI
+INFO: Hiding tile.pamonionCrop in NEI
+INFO: Hiding tile.pambeetCrop in NEI
+INFO: Hiding tile.pamzucchiniCrop in NEI
+INFO: Hiding tile.pamwintersquashCrop in NEI
+INFO: Hiding tile.pamstrawberryCrop in NEI
+INFO: Hiding tile.pamcactusfruitCrop in NEI
+INFO: Hiding tile.pamasparagusCrop in NEI
+INFO: Hiding tile.pamoatsCrop in NEI
+INFO: Hiding tile.pamryeCrop in NEI
+INFO: Hiding tile.pamcornCrop in NEI
+INFO: Hiding tile.pambambooshootCrop in NEI
+INFO: Hiding tile.pamcantaloupeCrop in NEI
+INFO: Hiding tile.pamcucumberCrop in NEI
+INFO: Hiding tile.pamraspberryCrop in NEI
+INFO: Hiding tile.pamcandleberryCrop in NEI
+INFO: Hiding tile.pamblueberryCrop in NEI
+INFO: Hiding tile.pamblackberryCrop in NEI
+INFO: Hiding tile.pamWalnut in NEI
+INFO: Hiding tile.pamVanillabean in NEI
+INFO: Hiding tile.pamPersimmon in NEI
+INFO: Hiding tile.pamPistachio in NEI
+INFO: Hiding tile.pamPlum in NEI
+INFO: Hiding tile.pamPomegranate in NEI
+INFO: Hiding tile.pamStarfruit in NEI
+INFO: Hiding tile.pamPeppercorn in NEI
+INFO: Hiding tile.pamPecan in NEI
+INFO: Hiding tile.pamPear in NEI
+INFO: Hiding tile.pamPeach in NEI
+INFO: Hiding tile.pamNutmeg in NEI
+INFO: Hiding tile.pamOlive in NEI
+INFO: Hiding tile.pamOrange in NEI
+INFO: Hiding tile.pamPapaya in NEI
+INFO: Hiding tile.pamMango in NEI
+INFO: Hiding tile.pamLime in NEI
+INFO: Hiding tile.pamLemon in NEI
+INFO: Hiding tile.pamDate in NEI
+INFO: Hiding tile.pamDragonfruit in NEI
+INFO: Hiding tile.pamDurian in NEI
+INFO: Hiding tile.pamFig in NEI
+INFO: Hiding tile.pamGrapefruit in NEI
+INFO: Hiding tile.pamCoconut in NEI
+INFO: Hiding tile.pamChestnut in NEI
+INFO: Hiding tile.pamCherry in NEI
+INFO: Hiding tile.pamAlmond in NEI
+INFO: Hiding tile.pamApricot in NEI
+INFO: Hiding tile.pamAvocado in NEI
+INFO: Hiding tile.pamBanana in NEI
+INFO: Hiding tile.pamCashew in NEI
+INFO: Hiding tile.pamApple in NEI
+INFO: Hiding tile.pamPaperbark in NEI
+INFO: Hiding tile.pamMaple in NEI
+INFO: Hiding tile.pamCinnamon in NEI
+INFO: Hiding tile.watergarden in NEI
+INFO: Hiding tile.tropicalgarden in NEI
+INFO: Hiding tile.textilegarden in NEI
+INFO: Hiding tile.stalkgarden in NEI
+INFO: Hiding tile.mushroomgarden in NEI
+INFO: Hiding tile.leafygarden in NEI
+INFO: Hiding tile.herbgarden in NEI
+INFO: Hiding tile.groundgarden in NEI
+INFO: Hiding tile.gourdgarden in NEI
+INFO: Hiding tile.grassgarden in NEI
+INFO: Hiding tile.desertgarden in NEI
+INFO: Hiding tile.berrygarden in NEI
+INFO: Hiding item.headcrumbs.egg in NEI
+INFO: Hiding item.upgrade.core.creative in NEI
+INFO: Hiding item.hammer.creative in NEI
+INFO: Hiding tile.molten.witheriron in NEI
+INFO: Hiding Mantle:item.mantle.manual.test in NEI
+INFO: Hiding tile.water in NEI
+INFO: Hiding tile.water in NEI
+INFO: Hiding tile.lava in NEI
+INFO: Hiding tile.lava in NEI
+INFO: Hiding tile.fire in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.monsterStoneEgg.stone in NEI
+INFO: Hiding tile.null in NEI
+INFO: Hiding tile.endPortalFrame in NEI
+INFO: Hiding tile.commandBlock in NEI
+INFO: Hiding item.minecartCommandBlock in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding tile.mfr.rubberwood.sapling.sacred in NEI
+INFO: Hiding tile.mfr.rubberwood.sapling.mega in NEI
+INFO: Hiding tile.mfr.rubberwood.sapling.massive in NEI
+INFO: Hiding fluid.mfr.milk.still in NEI
+INFO: Hiding fluid.mfr.sludge.still in NEI
+INFO: Hiding fluid.mfr.sewage.still in NEI
+INFO: Hiding fluid.mfr.meat.still in NEI
+INFO: Hiding fluid.mfr.pinkslime.still in NEI
+INFO: Hiding fluid.mfr.chocolatemilk.still in NEI
+INFO: Hiding fluid.mfr.mushroomsoup.still in NEI
+INFO: Hiding fluid.mfr.steam.still in NEI
+INFO: Hiding fluid.mfr.biofuel.still in NEI
+INFO: Hiding fluid.mfr.mobessence.still in NEI
+INFO: Hiding tile.mfr.rubberwood.log in NEI
+INFO: Hiding item.mfr.rednet.meter in NEI
+INFO: Hiding tile.fenceGate.maple in NEI
+INFO: Hiding tile.button.ghostwood in NEI
+INFO: Hiding tile.button.amaranth in NEI
+INFO: Hiding tile.stair.tiger in NEI
+INFO: Hiding tile.trapdoor.ghostwood in NEI
+INFO: Hiding tile.pressureplate.tiger in NEI
+INFO: Hiding tile.fenceGate.fusewood in NEI
+INFO: Hiding tile.fenceGate.bloodwood in NEI
+INFO: Hiding tile.button.redwood in NEI
+INFO: Hiding tile.button.maple in NEI
+INFO: Hiding tile.trapdoor.amaranth in NEI
+INFO: Hiding tile.stair.hopseed in NEI
+INFO: Hiding tile.pressureplate.amaranth in NEI
+INFO: Hiding tile.fenceGate.willow in NEI
+INFO: Hiding tile.pressureplate.hopseed in NEI
+INFO: Hiding tile.door.redwoodbark in NEI
+INFO: Hiding tile.fenceGate.sakura in NEI
+INFO: Hiding tile.trapdoor.silverbell in NEI
+INFO: Hiding tile.stair.bloodwood in NEI
+INFO: Hiding tile.fenceGate.ghostwood in NEI
+INFO: Hiding tile.fenceGate.amaranth in NEI
+INFO: Hiding tile.pressureplate.maple in NEI
+INFO: Hiding tile.button.silverbell in NEI
+INFO: Hiding tile.trapdoor.darkwood in NEI
+INFO: Hiding tile.pressureplate.fusewood in NEI
+INFO: Hiding tile.pressureplate.redwood in NEI
+INFO: Hiding tile.stair.fusewood in NEI
+INFO: Hiding tile.stair.silverbell in NEI
+INFO: Hiding tile.stair.darkwood in NEI
+INFO: Hiding tile.pressureplate.ghostwood in NEI
+INFO: Hiding tile.pressureplate.darkwood in NEI
+INFO: Hiding tile.button.sakura in NEI
+INFO: Hiding tile.button.willow in NEI
+INFO: Hiding tile.pressureplate.bloodwood in NEI
+INFO: Hiding tile.door.eucalyptus in NEI
+INFO: Hiding tile.trapdoor.willow in NEI
+INFO: Hiding tile.trapdoor.fusewood in NEI
+INFO: Hiding tile.natura.crops in NEI
+INFO: Hiding tile.stair.ghostwood in NEI
+INFO: Hiding tile.fenceGate.darkwood in NEI
+INFO: Hiding tile.trapdoor.tiger in NEI
+INFO: Hiding tile.stair.redwood in NEI
+INFO: Hiding tile.button.hopseed in NEI
+INFO: Hiding tile.fenceGate.silverbell in NEI
+INFO: Hiding tile.button.fusewood in NEI
+INFO: Hiding tile.door.sakura in NEI
+INFO: Hiding tile.trapdoor.bloodwood in NEI
+INFO: Hiding tile.door.ghostwood in NEI
+INFO: Hiding tile.button.bloodwood in NEI
+INFO: Hiding tile.stair.willow in NEI
+INFO: Hiding tile.fenceGate.hopseed in NEI
+INFO: Hiding tile.fenceGate.tiger in NEI
+INFO: Hiding tile.door.hopseed in NEI
+INFO: Hiding tile.pressureplate.sakura in NEI
+INFO: Hiding tile.trapdoor.sakura in NEI
+INFO: Hiding tile.pressureplate.silverbell in NEI
+INFO: Hiding tile.trapdoor.redwood in NEI
+INFO: Hiding tile.trapdoor.maple in NEI
+INFO: Hiding tile.fenceGate.redwood in NEI
+INFO: Hiding tile.stair.maple in NEI
+INFO: Hiding tile.door.redwood in NEI
+INFO: Hiding tile.door.bloodwood in NEI
+INFO: Hiding tile.button.tiger in NEI
+INFO: Hiding tile.button.darkwood in NEI
+INFO: Hiding tile.trapdoor.hopseed in NEI
+INFO: Hiding item.natura.spawnegg in NEI
+INFO: Hiding item.flintandblaze in NEI
+INFO: Hiding item.bowl in NEI
+INFO: Hiding tile.pressureplate.willow in NEI
+INFO: Hiding item.CreativeRFEngine in NEI
+INFO: Hiding item.recallStoneBlank in NEI
+INFO: Hiding item.dimensionStoneBlank in NEI
+INFO: Hiding tile.rfwindmill_rotor.rotorIron in NEI
+INFO: Hiding RouterReborn:item.router.manual.manual in NEI
+INFO: Hiding tile.Sanguimancy.illusion.diamond.ore in NEI
+INFO: Hiding tile.Sanguimancy.itemSNPart in NEI
+INFO: Hiding tile.Sanguimancy.ritualRepresentation in NEI
+INFO: Hiding item.Sanguimancy.soulCorruption.nothing in NEI
+INFO: Hiding item.simplyjetpacks.mysteriousPotato in NEI
+INFO: Hiding item.simplyjetpacks.jetpack.9001 in NEI
+INFO: Hiding item.simplyjetpacks.fluxpack.9001 in NEI
+INFO: Hiding item.storagedrawers.upgradeCreative.vend in NEI
+INFO: Hiding item.tconstruct.modifier.creative in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool.Dagger in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool.Battleaxe in NEI
+INFO: Hiding item.InfiTool.Hammer in NEI
+INFO: Hiding item.InfiTool.Excavator in NEI
+INFO: Hiding item.InfiTool.Scythe in NEI
+INFO: Hiding item.InfiTool.Cleaver in NEI
+INFO: Hiding item.InfiTool.LumberAxe in NEI
+INFO: Hiding item.InfiTool.Chisel in NEI
+INFO: Hiding item.InfiTool.Mattock in NEI
+INFO: Hiding item.InfiTool.Battlesign in NEI
+INFO: Hiding item.InfiTool.FryPan in NEI
+INFO: Hiding item.InfiTool.Cutlass in NEI
+INFO: Hiding item.InfiTool.Rapier in NEI
+INFO: Hiding item.InfiTool.Longsword in NEI
+INFO: Hiding item.InfiTool.Broadsword in NEI
+INFO: Hiding item.InfiTool.Axe in NEI
+INFO: Hiding item.InfiTool.Shovel in NEI
+INFO: Hiding item.InfiTool.Pickaxe in NEI
+INFO: Hiding item.tconstruct.Materials.RawAluminum in NEI
+INFO: Hiding Smeltery.Brick.Cracked in NEI
+INFO: Hiding block.slime.soil.blue in NEI
+INFO: Hiding tile.liquid.slime in NEI
+INFO: Hiding block.slime.congealed.purple in NEI
+INFO: Hiding block.slime.grass.blue in NEI
+INFO: Hiding block.ore.gravel.cobalt in NEI
+INFO: Hiding item.InfiTool.Broadsword in NEI
+INFO: Hiding Smeltery.Stone in NEI
+INFO: Hiding Smeltery.Cobblestone in NEI
+INFO: Hiding Smeltery.Paver in NEI
+INFO: Hiding Smeltery.Brick.Cracked in NEI
+INFO: Hiding Smeltery.Road in NEI
+INFO: Hiding Smeltery.Brick.Fancy in NEI
+INFO: Hiding Smeltery.Brick.Square in NEI
+INFO: Hiding Smeltery.Brick.Square in NEI
+INFO: Hiding tile.blockAiry.0 in NEI
+INFO: Hiding tile.blockFluidDeath in NEI
+INFO: Hiding tile.blockFluxGoo in NEI
+INFO: Hiding tile.blockLootUrn in NEI
+INFO: Hiding tile.blockCosmeticSolid.0 in NEI
+INFO: Hiding tile.blockArcaneFurnace in NEI
+INFO: Hiding tile.blockWarded in NEI
+INFO: Hiding tile.blockFluxGas in NEI
+INFO: Hiding tile.blockAlchemyFurnace in NEI
+INFO: Hiding tile.blockPortalEldritch in NEI
+INFO: Hiding tile.blockHole in NEI
+INFO: Hiding tile.blockFluidPure in NEI
+INFO: Hiding tile.blockCosmeticDoubleSlabWood in NEI
+INFO: Hiding tile.blockMagicBox in NEI
+INFO: Hiding tile.blockTaintFibres.32767 in NEI
+INFO: Hiding item.ItemResearchNotes in NEI
+INFO: Hiding item.ItemSpawnerEgg in NEI
+INFO: Hiding item.WandCasting in NEI
+INFO: Hiding item.WandCasting in NEI
+INFO: Hiding item.ItemEldritchObject.4 in NEI
+INFO: Hiding thaumicenergistics.item.essentia.cell.creative in NEI
+INFO: Hiding tile.ThaumicHorizons_light in NEI
+INFO: Hiding tile.ThaumicHorizons_vatSolid in NEI
+INFO: Hiding tile.ThaumicHorizons_vat in NEI
+INFO: Hiding tile.ThaumicHorizons_light in NEI
+INFO: Hiding tile.ThaumicHorizons_evanescent in NEI
+INFO: Hiding tile.ThaumicHorizons_vatInterior in NEI
+INFO: Hiding tile.ThaumicHorizons_cloud.32767 in NEI
+INFO: Hiding tile.ThaumicHorizons_slot in NEI
+INFO: Hiding tile.ThaumicHorizons_gateway in NEI
+INFO: Hiding tile.ThaumicHorizons_cloud.32767 in NEI
+INFO: Hiding tile.ThaumicHorizons_flesh in NEI
+INFO: Hiding tile.ThaumicHorizons_spikeTooth in NEI
+INFO: Hiding tile.ThaumicHorizons_spikeWood in NEI
+INFO: Hiding tile.ThaumicHorizons_deepcrystal in NEI
+INFO: Hiding tile.ThaumicHorizons_spike in NEI
+INFO: Hiding tile.ThaumicHorizons_void in NEI
+INFO: Hiding tile.ThaumicHorizons_eye in NEI
+INFO: Hiding tile.ThaumicHorizons_vortex.32767 in NEI
+INFO: Hiding tile.ThaumicHorizons_crystal.32767 in NEI
+INFO: Hiding tile.ThaumicHorizons_brain in NEI
+INFO: Hiding tile.null in NEI
+INFO: Hiding tile.ThaumicHorizons_dust in NEI
+INFO: Hiding item.syringeEmpty in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.goldEgg in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.inkEgg in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.syringeBlood.0 in NEI
+INFO: Hiding item.golemPlacer in NEI
+INFO: Hiding item.vat in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.chocolateMilk in NEI
+INFO: Hiding item.suicidePill in NEI
+INFO: Hiding item.nodeCheat in NEI
+INFO: Hiding item.meatnuggetTH in NEI
+INFO: Hiding item.meatTH in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.voidPutty in NEI
+INFO: Hiding tile.nitorGas in NEI
+INFO: Hiding tile.infusedFarmland in NEI
+INFO: Hiding tile.forcefield in NEI
+INFO: Hiding tile.infusedGrainBlock in NEI
+INFO: Hiding tile.gaseousLight in NEI
+INFO: Hiding tile.gaseousShadow in NEI
+INFO: Hiding item.mobAspect.infused in NEI
+INFO: Hiding item.infusedGrain in NEI
+INFO: Hiding item.thermalexpansion.florb.florb in NEI
+INFO: Hiding item.thermalexpansion.capacitor.creative in NEI
+INFO: Hiding tile.thermalexpansion.cell.creative.name in NEI
+INFO: Hiding tile.thermalexpansion.tank.creative.name in NEI
+INFO: Hiding tile.thermalexpansion.cache.creative.name in NEI
+INFO: Hiding tile.thermalexpansion.sponge.creative in NEI
+INFO: Hiding tile.thermalexpansion.workbench.creative.name in NEI
+INFO: Hiding tile.thermalexpansion.strongbox.creative.name in NEI
+INFO: Hiding item.thermalexpansion.tool.debugger in NEI
+INFO: Hiding tile.thermalfoundation.fluid.mana in NEI
+INFO: Hiding tile.thermalfoundation.fluid.steam in NEI
+INFO: Hiding tile.thermalfoundation.fluid.petrotheum in NEI
+INFO: Hiding tile.thermalfoundation.fluid.aerotheum in NEI
+INFO: Hiding tile.WG_CustomAir in NEI
+INFO: Hiding tile.WG_WoodenDevice.cuttingTable in NEI
+INFO: Hiding tile.WG_StoneDevice.magicTileLock in NEI
+INFO: Hiding tile.WG_StoneDevice.obsidianPlate in NEI
+INFO: Hiding tile.WG_StoneDevice.obsidianDecoration0 in NEI
+INFO: Hiding tile.WG_StoneDevice.sarcophagus in NEI
+INFO: Adding Stencil Table to ore dictionary entry stenciltable
+INFO: Adding Stencil Table to ore dictionary entry stenciltable
+INFO: Adding Stencil Table to ore dictionary entry stenciltable
+INFO: Adding Stencil Table to ore dictionary entry stenciltable
+INFO: Adding Part Builder to ore dictionary entry partbuilder
+INFO: Adding Part Builder to ore dictionary entry partbuilder
+INFO: Adding Part Builder to ore dictionary entry partbuilder
+INFO: Adding Part Builder to ore dictionary entry partbuilder
+INFO: Adding Oak Barrel to ore dictionary entry ebarrel
+INFO: Adding Spruce Barrel to ore dictionary entry ebarrel
+INFO: Adding Birch Barrel to ore dictionary entry ebarrel
+INFO: Adding Jungle Barrel to ore dictionary entry ebarrel
+INFO: Adding Acacia Barrel to ore dictionary entry ebarrel
+INFO: Adding Dark Oak Barrel to ore dictionary entry ebarrel
+INFO: Adding Wooden Hammer to ore dictionary entry ehammer
+INFO: Adding Stone Hammer to ore dictionary entry ehammer
+INFO: Adding Iron Hammer to ore dictionary entry ehammer
+INFO: Adding Gold Hammer to ore dictionary entry ehammer
+INFO: Adding Diamond Hammer to ore dictionary entry ehammer
+INFO: Adding Oak Sieve to ore dictionary entry sieve
+INFO: Adding Spruce Sieve to ore dictionary entry sieve
+INFO: Adding Birch Sieve to ore dictionary entry sieve
+INFO: Adding Jungle Sieve to ore dictionary entry sieve
+INFO: Adding Acacia Sieve to ore dictionary entry sieve
+INFO: Adding Dark Oak Sieve to ore dictionary entry sieve
+INFO: Removing 4 recipes
+INFO: Removing 0 recipes
+INFO: Adding recipe for Mirror
+INFO: Registering Research Tab: AGRIMANCY
+INFO: Registering Research: MAGICORES
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:1>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:2>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:3>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:4>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:5>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:6>
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Registering Research: PROTECTION
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <TConstruct:heartCanister:1>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <TConstruct:heartCanister:3>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <TConstruct:heartCanister:5>
+INFO: Adding Research Page to PROTECTION
+INFO: Adding Research Page to PROTECTION
+INFO: Adding Research Page to PROTECTION
+INFO: Adding Research Page to PROTECTION
+INFO: Registering Research: SINFULL
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:1>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:2>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:3>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:4>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:5>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:6>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:GluttonyShard>
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Recall Stone
+INFO: Registering Research: RECALLSTONE
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <recallstones:recallStone>
+INFO: Adding Research Page to RECALLSTONE
+INFO: Adding Research Page to RECALLSTONE
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Dimensional Stone
+INFO: Registering Research: DIMENSIONSTONE
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <recallstones:dimensionStone>
+INFO: Adding Research Page to DIMENSIONSTONE
+INFO: Adding Research Page to DIMENSIONSTONE
+INFO: Adding Prerequisites to DIMENSIONSTONE
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Transposer (Fill) Recipe(s) for <ThermalFoundation:Ore:5>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:material:69>
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Green Heart Canister
+INFO: Adding recipe for Yellow Heart Canister
+INFO: Adding recipe for Red Heart Canister
+INFO: [ModTweaker2] Adding 1 TConstruct Drying Rack Recipe(s) for <harvestcraft:raisinsItem>
+INFO: [ModTweaker2] Adding 1 TConstruct Drying Rack Recipe(s) for <harvestcraft:raisinsItem>
+INFO: [ModTweaker2] Adding 1 TConstruct Drying Rack Recipe(s) for <harvestcraft:raisinsItem>
+INFO: [ModTweaker2] Adding 1 TConstruct Drying Rack Recipe(s) for <harvestcraft:raisinsItem>
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:spike_base>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:spike_base_gold>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:spike_base_diamond>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:creativebuilderswand>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:13>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:14>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:15>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:19>
+INFO: Removing 3 recipes
+INFO: Removing 3 recipes
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <harvestcraft:potItem>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <harvestcraft:saucepanItem>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:gearCast>
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command exnihilo
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
+INFO: Adding minetweaker command thermalexpansion
+INFO: Removing minetweaker command thermalexpansion
+INFO: Removing minetweaker command aspectList
+INFO: Removing minetweaker command research
+INFO: Removing minetweaker command tconstruct
+INFO: Removing minetweaker command modifiers
+INFO: Removing minetweaker command materials
+INFO: Removing minetweaker command exnihilo
+INFO: Removing minetweaker command chiselVariations
+INFO: Removing minetweaker command chiselGroups
+INFO: Removing minetweaker command botania
+INFO: Removing minetweaker command botaniaOrechid
+INFO: Removing minetweaker command lexiconKnowledgeTypes
+INFO: Removing minetweaker command botaniaBrews
+INFO: Removing minetweaker command lexiconPages
+INFO: Removing minetweaker command lexiconCategories
+INFO: Removing minetweaker command appeng
+INFO: Removing minetweaker command entities
+INFO: Removing minetweaker command tooltips
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:gearCast>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <harvestcraft:saucepanItem>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <harvestcraft:potItem>
+INFO: Restoring 3 recipes
+INFO: Restoring 3 recipes
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:19>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:15>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:14>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:13>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ExtraUtilities:creativebuilderswand>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ExtraUtilities:spike_base_diamond>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ExtraUtilities:spike_base_gold>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ExtraUtilities:spike_base>
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: [ModTweaker2] Removing 1 TConstruct Drying Rack Recipe(s) for <harvestcraft:raisinsItem>
+INFO: [ModTweaker2] Removing 1 TConstruct Drying Rack Recipe(s) for <harvestcraft:raisinsItem>
+INFO: [ModTweaker2] Removing 1 TConstruct Drying Rack Recipe(s) for <harvestcraft:raisinsItem>
+INFO: [ModTweaker2] Removing 1 TConstruct Drying Rack Recipe(s) for <harvestcraft:raisinsItem>
+INFO: Removing recipe for Red Heart Canister
+INFO: Removing recipe for Yellow Heart Canister
+INFO: Removing recipe for Green Heart Canister
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:material:69>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Transposer (Fill) Recipe(s) for <ThermalFoundation:Ore:5>
+INFO: Restoring Prerequisites for DIMENSIONSTONE
+INFO: Removing Page from DIMENSIONSTONE
+INFO: Removing Page from DIMENSIONSTONE
+INFO: [ModTweaker2] Removing 1 Thaumcraft Arcane Worktable Recipe(s) for <recallstones:dimensionStone>
+INFO: Removing Research: DIMENSIONSTONE
+INFO: [ModTweaker2] Reverting Aspects Recipe(s) changes for Dimensional Stone
+INFO: Removing Page from RECALLSTONE
+INFO: Removing Page from RECALLSTONE
+INFO: [ModTweaker2] Removing 1 Thaumcraft Arcane Worktable Recipe(s) for <recallstones:recallStone>
+INFO: Removing Research: RECALLSTONE
+INFO: [ModTweaker2] Reverting Aspects Recipe(s) changes for Recall Stone
+INFO: Removing Page from SINFULL
+INFO: Removing Page from SINFULL
+INFO: Removing Page from SINFULL
+INFO: Removing Page from SINFULL
+INFO: Removing Page from SINFULL
+INFO: Removing Page from SINFULL
+INFO: Removing Page from SINFULL
+INFO: Removing Page from SINFULL
+INFO: Removing Page from SINFULL
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:GluttonyShard>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:6>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:5>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:4>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:3>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:2>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:1>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard>
+INFO: Removing Research: SINFULL
+INFO: Removing Page from PROTECTION
+INFO: Removing Page from PROTECTION
+INFO: Removing Page from PROTECTION
+INFO: Removing Page from PROTECTION
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <TConstruct:heartCanister:5>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <TConstruct:heartCanister:3>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <TConstruct:heartCanister:1>
+INFO: Removing Research: PROTECTION
+INFO: [Stuck] Adding Research Page to MAGICORES
+INFO: Removing Page from MAGICORES
+INFO: Removing Page from MAGICORES
+INFO: Removing Page from MAGICORES
+INFO: Removing Page from MAGICORES
+INFO: Removing Page from MAGICORES
+INFO: Removing Page from MAGICORES
+INFO: Removing Page from MAGICORES
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:6>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:5>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:4>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:3>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:2>
+INFO: [ModTweaker2] Removing 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:1>
+INFO: Removing Research: MAGICORES
+INFO: Removing Research Tab: AGRIMANCY
+INFO: Removing recipe for Mirror
+INFO: Restoring 0 recipes
+INFO: Restoring 4 recipes
+INFO: Removing Dark Oak Sieve from ore dictionary entry sieve
+INFO: Removing Acacia Sieve from ore dictionary entry sieve
+INFO: Removing Jungle Sieve from ore dictionary entry sieve
+INFO: Removing Birch Sieve from ore dictionary entry sieve
+INFO: Removing Spruce Sieve from ore dictionary entry sieve
+INFO: Removing Oak Sieve from ore dictionary entry sieve
+INFO: Removing Diamond Hammer from ore dictionary entry ehammer
+INFO: Removing Gold Hammer from ore dictionary entry ehammer
+INFO: Removing Iron Hammer from ore dictionary entry ehammer
+INFO: Removing Stone Hammer from ore dictionary entry ehammer
+INFO: Removing Wooden Hammer from ore dictionary entry ehammer
+INFO: Removing Dark Oak Barrel from ore dictionary entry ebarrel
+INFO: Removing Acacia Barrel from ore dictionary entry ebarrel
+INFO: Removing Jungle Barrel from ore dictionary entry ebarrel
+INFO: Removing Birch Barrel from ore dictionary entry ebarrel
+INFO: Removing Spruce Barrel from ore dictionary entry ebarrel
+INFO: Removing Oak Barrel from ore dictionary entry ebarrel
+INFO: Removing Part Builder from ore dictionary entry partbuilder
+INFO: Removing Part Builder from ore dictionary entry partbuilder
+INFO: Removing Part Builder from ore dictionary entry partbuilder
+INFO: Removing Part Builder from ore dictionary entry partbuilder
+INFO: Removing Stencil Table from ore dictionary entry stenciltable
+INFO: Removing Stencil Table from ore dictionary entry stenciltable
+INFO: Removing Stencil Table from ore dictionary entry stenciltable
+INFO: Removing Stencil Table from ore dictionary entry stenciltable
+INFO: Displaying tile.WG_StoneDevice.sarcophagus in NEI
+INFO: Displaying tile.WG_StoneDevice.obsidianDecoration0 in NEI
+INFO: Displaying tile.WG_StoneDevice.obsidianPlate in NEI
+INFO: Displaying tile.WG_StoneDevice.magicTileLock in NEI
+INFO: Displaying tile.WG_WoodenDevice.cuttingTable in NEI
+INFO: Displaying tile.WG_CustomAir in NEI
+INFO: Displaying tile.thermalfoundation.fluid.aerotheum in NEI
+INFO: Displaying tile.thermalfoundation.fluid.petrotheum in NEI
+INFO: Displaying tile.thermalfoundation.fluid.steam in NEI
+INFO: Displaying tile.thermalfoundation.fluid.mana in NEI
+INFO: Displaying item.thermalexpansion.tool.debugger in NEI
+INFO: Displaying tile.thermalexpansion.strongbox.creative.name in NEI
+INFO: Displaying tile.thermalexpansion.workbench.creative.name in NEI
+INFO: Displaying tile.thermalexpansion.sponge.creative in NEI
+INFO: Displaying tile.thermalexpansion.cache.creative.name in NEI
+INFO: Displaying tile.thermalexpansion.tank.creative.name in NEI
+INFO: Displaying tile.thermalexpansion.cell.creative.name in NEI
+INFO: Displaying item.thermalexpansion.capacitor.creative in NEI
+INFO: [Stuck] Hiding item.thermalexpansion.florb.florb in NEI
+INFO: Displaying item.infusedGrain in NEI
+INFO: Displaying item.mobAspect.infused in NEI
+INFO: Displaying tile.gaseousShadow in NEI
+INFO: Displaying tile.gaseousLight in NEI
+INFO: Displaying tile.infusedGrainBlock in NEI
+INFO: Displaying tile.forcefield in NEI
+INFO: Displaying tile.infusedFarmland in NEI
+INFO: Displaying tile.nitorGas in NEI
+INFO: Displaying item.voidPutty in NEI
+INFO: Displaying item.null in NEI
+INFO: Displaying item.meatTH in NEI
+INFO: Displaying item.meatnuggetTH in NEI
+INFO: Displaying item.nodeCheat in NEI
+INFO: Displaying item.suicidePill in NEI
+INFO: Displaying item.chocolateMilk in NEI
+INFO: Displaying item.null in NEI
+INFO: Displaying item.null in NEI
+INFO: Displaying item.vat in NEI
+INFO: Displaying item.golemPlacer in NEI
+INFO: Displaying item.syringeBlood.0 in NEI
+INFO: Displaying item.null in NEI
+INFO: Displaying item.null in NEI
+INFO: Displaying item.inkEgg in NEI
+INFO: Displaying item.null in NEI
+INFO: Displaying item.goldEgg in NEI
+INFO: Displaying item.null in NEI
+INFO: Displaying item.syringeEmpty in NEI
+INFO: Displaying tile.ThaumicHorizons_dust in NEI
+INFO: Displaying tile.null in NEI
+INFO: Displaying tile.ThaumicHorizons_brain in NEI
+INFO: Displaying tile.ThaumicHorizons_crystal.32767 in NEI
+INFO: Displaying tile.ThaumicHorizons_vortex.32767 in NEI
+INFO: Displaying tile.ThaumicHorizons_eye in NEI
+INFO: Displaying tile.ThaumicHorizons_void in NEI
+INFO: Displaying tile.ThaumicHorizons_spike in NEI
+INFO: Displaying tile.ThaumicHorizons_deepcrystal in NEI
+INFO: Displaying tile.ThaumicHorizons_spikeWood in NEI
+INFO: Displaying tile.ThaumicHorizons_spikeTooth in NEI
+INFO: Displaying tile.ThaumicHorizons_flesh in NEI
+INFO: Displaying tile.ThaumicHorizons_cloud.32767 in NEI
+INFO: Displaying tile.ThaumicHorizons_gateway in NEI
+INFO: Displaying tile.ThaumicHorizons_slot in NEI
+INFO: Displaying tile.ThaumicHorizons_cloud.32767 in NEI
+INFO: Displaying tile.ThaumicHorizons_vatInterior in NEI
+INFO: Displaying tile.ThaumicHorizons_evanescent in NEI
+INFO: Displaying tile.ThaumicHorizons_light in NEI
+INFO: Displaying tile.ThaumicHorizons_vat in NEI
+INFO: Displaying tile.ThaumicHorizons_vatSolid in NEI
+INFO: Displaying tile.ThaumicHorizons_light in NEI
+INFO: Displaying thaumicenergistics.item.essentia.cell.creative in NEI
+INFO: Displaying item.ItemEldritchObject.4 in NEI
+INFO: Displaying item.WandCasting in NEI
+INFO: Displaying item.WandCasting in NEI
+INFO: Displaying item.ItemSpawnerEgg in NEI
+INFO: Displaying item.ItemResearchNotes in NEI
+INFO: Displaying tile.blockTaintFibres.32767 in NEI
+INFO: Displaying tile.blockMagicBox in NEI
+INFO: Displaying tile.blockCosmeticDoubleSlabWood in NEI
+INFO: Displaying tile.blockFluidPure in NEI
+INFO: Displaying tile.blockHole in NEI
+INFO: Displaying tile.blockPortalEldritch in NEI
+INFO: Displaying tile.blockAlchemyFurnace in NEI
+INFO: Displaying tile.blockFluxGas in NEI
+INFO: Displaying tile.blockWarded in NEI
+INFO: Displaying tile.blockArcaneFurnace in NEI
+INFO: Displaying tile.blockCosmeticSolid.0 in NEI
+INFO: Displaying tile.blockLootUrn in NEI
+INFO: Displaying tile.blockFluxGoo in NEI
+INFO: Displaying tile.blockFluidDeath in NEI
+INFO: Displaying tile.blockAiry.0 in NEI
+INFO: Displaying Smeltery.Brick.Square in NEI
+INFO: Displaying Smeltery.Brick.Square in NEI
+INFO: Displaying Smeltery.Brick.Fancy in NEI
+INFO: Displaying Smeltery.Road in NEI
+INFO: Displaying Smeltery.Brick.Cracked in NEI
+INFO: Displaying Smeltery.Paver in NEI
+INFO: Displaying Smeltery.Cobblestone in NEI
+INFO: Displaying Smeltery.Stone in NEI
+INFO: Displaying item.InfiTool.Broadsword in NEI
+INFO: Displaying block.ore.gravel.cobalt in NEI
+INFO: Displaying block.slime.grass.blue in NEI
+INFO: Displaying block.slime.congealed.purple in NEI
+INFO: Displaying tile.liquid.slime in NEI
+INFO: Displaying block.slime.soil.blue in NEI
+INFO: Displaying Smeltery.Brick.Cracked in NEI
+INFO: Displaying item.tconstruct.Materials.RawAluminum in NEI
+INFO: Displaying item.InfiTool.Pickaxe in NEI
+INFO: Displaying item.InfiTool.Shovel in NEI
+INFO: Displaying item.InfiTool.Axe in NEI
+INFO: Displaying item.InfiTool.Broadsword in NEI
+INFO: Displaying item.InfiTool.Longsword in NEI
+INFO: Displaying item.InfiTool.Rapier in NEI
+INFO: Displaying item.InfiTool.Cutlass in NEI
+INFO: Displaying item.InfiTool.FryPan in NEI
+INFO: Displaying item.InfiTool.Battlesign in NEI
+INFO: Displaying item.InfiTool.Mattock in NEI
+INFO: Displaying item.InfiTool.Chisel in NEI
+INFO: Displaying item.InfiTool.LumberAxe in NEI
+INFO: Displaying item.InfiTool.Cleaver in NEI
+INFO: Displaying item.InfiTool.Scythe in NEI
+INFO: Displaying item.InfiTool.Excavator in NEI
+INFO: Displaying item.InfiTool.Hammer in NEI
+INFO: Displaying item.InfiTool.Battleaxe in NEI
+INFO: Displaying item.InfiTool in NEI
+INFO: Displaying item.InfiTool in NEI
+INFO: Displaying item.InfiTool in NEI
+INFO: Displaying item.InfiTool in NEI
+INFO: Displaying item.InfiTool in NEI
+INFO: Displaying item.InfiTool in NEI
+INFO: Displaying item.InfiTool in NEI
+INFO: Displaying item.InfiTool.Dagger in NEI
+INFO: Displaying item.InfiTool in NEI
+INFO: Displaying item.tconstruct.modifier.creative in NEI
+INFO: Displaying item.storagedrawers.upgradeCreative.vend in NEI
+INFO: Displaying item.simplyjetpacks.fluxpack.9001 in NEI
+INFO: Displaying item.simplyjetpacks.jetpack.9001 in NEI
+INFO: Displaying item.simplyjetpacks.mysteriousPotato in NEI
+INFO: Displaying item.Sanguimancy.soulCorruption.nothing in NEI
+INFO: Displaying tile.Sanguimancy.ritualRepresentation in NEI
+INFO: Displaying tile.Sanguimancy.itemSNPart in NEI
+INFO: Displaying tile.Sanguimancy.illusion.diamond.ore in NEI
+INFO: Displaying RouterReborn:item.router.manual.manual in NEI
+INFO: Displaying tile.rfwindmill_rotor.rotorIron in NEI
+INFO: Displaying item.dimensionStoneBlank in NEI
+INFO: Displaying item.recallStoneBlank in NEI
+INFO: Displaying item.CreativeRFEngine in NEI
+INFO: Displaying tile.pressureplate.willow in NEI
+INFO: Displaying item.bowl in NEI
+INFO: Displaying item.flintandblaze in NEI
+INFO: Displaying item.natura.spawnegg in NEI
+INFO: Displaying tile.trapdoor.hopseed in NEI
+INFO: Displaying tile.button.darkwood in NEI
+INFO: Displaying tile.button.tiger in NEI
+INFO: Displaying tile.door.bloodwood in NEI
+INFO: Displaying tile.door.redwood in NEI
+INFO: Displaying tile.stair.maple in NEI
+INFO: Displaying tile.fenceGate.redwood in NEI
+INFO: Displaying tile.trapdoor.maple in NEI
+INFO: Displaying tile.trapdoor.redwood in NEI
+INFO: Displaying tile.pressureplate.silverbell in NEI
+INFO: Displaying tile.trapdoor.sakura in NEI
+INFO: Displaying tile.pressureplate.sakura in NEI
+INFO: Displaying tile.door.hopseed in NEI
+INFO: Displaying tile.fenceGate.tiger in NEI
+INFO: Displaying tile.fenceGate.hopseed in NEI
+INFO: Displaying tile.stair.willow in NEI
+INFO: Displaying tile.button.bloodwood in NEI
+INFO: Displaying tile.door.ghostwood in NEI
+INFO: Displaying tile.trapdoor.bloodwood in NEI
+INFO: Displaying tile.door.sakura in NEI
+INFO: Displaying tile.button.fusewood in NEI
+INFO: Displaying tile.fenceGate.silverbell in NEI
+INFO: Displaying tile.button.hopseed in NEI
+INFO: Displaying tile.stair.redwood in NEI
+INFO: Displaying tile.trapdoor.tiger in NEI
+INFO: Displaying tile.fenceGate.darkwood in NEI
+INFO: Displaying tile.stair.ghostwood in NEI
+INFO: Displaying tile.natura.crops in NEI
+INFO: Displaying tile.trapdoor.fusewood in NEI
+INFO: Displaying tile.trapdoor.willow in NEI
+INFO: Displaying tile.door.eucalyptus in NEI
+INFO: Displaying tile.pressureplate.bloodwood in NEI
+INFO: Displaying tile.button.willow in NEI
+INFO: Displaying tile.button.sakura in NEI
+INFO: Displaying tile.pressureplate.darkwood in NEI
+INFO: Displaying tile.pressureplate.ghostwood in NEI
+INFO: Displaying tile.stair.darkwood in NEI
+INFO: Displaying tile.stair.silverbell in NEI
+INFO: Displaying tile.stair.fusewood in NEI
+INFO: Displaying tile.pressureplate.redwood in NEI
+INFO: Displaying tile.pressureplate.fusewood in NEI
+INFO: Displaying tile.trapdoor.darkwood in NEI
+INFO: Displaying tile.button.silverbell in NEI
+INFO: Displaying tile.pressureplate.maple in NEI
+INFO: Displaying tile.fenceGate.amaranth in NEI
+INFO: Displaying tile.fenceGate.ghostwood in NEI
+INFO: Displaying tile.stair.bloodwood in NEI
+INFO: Displaying tile.trapdoor.silverbell in NEI
+INFO: Displaying tile.fenceGate.sakura in NEI
+INFO: Displaying tile.door.redwoodbark in NEI
+INFO: Displaying tile.pressureplate.hopseed in NEI
+INFO: Displaying tile.fenceGate.willow in NEI
+INFO: Displaying tile.pressureplate.amaranth in NEI
+INFO: Displaying tile.stair.hopseed in NEI
+INFO: Displaying tile.trapdoor.amaranth in NEI
+INFO: Displaying tile.button.maple in NEI
+INFO: Displaying tile.button.redwood in NEI
+INFO: Displaying tile.fenceGate.bloodwood in NEI
+INFO: Displaying tile.fenceGate.fusewood in NEI
+INFO: Displaying tile.pressureplate.tiger in NEI
+INFO: Displaying tile.trapdoor.ghostwood in NEI
+INFO: Displaying tile.stair.tiger in NEI
+INFO: Displaying tile.button.amaranth in NEI
+INFO: Displaying tile.button.ghostwood in NEI
+INFO: Displaying tile.fenceGate.maple in NEI
+INFO: Displaying item.mfr.rednet.meter in NEI
+INFO: Displaying tile.mfr.rubberwood.log in NEI
+INFO: Displaying fluid.mfr.mobessence.still in NEI
+INFO: Displaying fluid.mfr.biofuel.still in NEI
+INFO: Displaying fluid.mfr.steam.still in NEI
+INFO: Displaying fluid.mfr.mushroomsoup.still in NEI
+INFO: Displaying fluid.mfr.chocolatemilk.still in NEI
+INFO: Displaying fluid.mfr.pinkslime.still in NEI
+INFO: Displaying fluid.mfr.meat.still in NEI
+INFO: Displaying fluid.mfr.sewage.still in NEI
+INFO: Displaying fluid.mfr.sludge.still in NEI
+INFO: Displaying fluid.mfr.milk.still in NEI
+INFO: Displaying tile.mfr.rubberwood.sapling.massive in NEI
+INFO: Displaying tile.mfr.rubberwood.sapling.mega in NEI
+INFO: Displaying tile.mfr.rubberwood.sapling.sacred in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.monsterPlacer in NEI
+INFO: Displaying item.minecartCommandBlock in NEI
+INFO: Displaying tile.commandBlock in NEI
+INFO: Displaying tile.endPortalFrame in NEI
+INFO: Displaying tile.null in NEI
+INFO: Displaying tile.monsterStoneEgg.stone in NEI
+INFO: Displaying tile.mobSpawner in NEI
+INFO: Displaying tile.fire in NEI
+INFO: Displaying tile.lava in NEI
+INFO: Displaying tile.lava in NEI
+INFO: Displaying tile.water in NEI
+INFO: Displaying tile.water in NEI
+INFO: Displaying Mantle:item.mantle.manual.test in NEI
+INFO: Displaying tile.molten.witheriron in NEI
+INFO: Displaying item.hammer.creative in NEI
+INFO: Displaying item.upgrade.core.creative in NEI
+INFO: Displaying item.headcrumbs.egg in NEI
+INFO: Displaying tile.berrygarden in NEI
+INFO: Displaying tile.desertgarden in NEI
+INFO: Displaying tile.grassgarden in NEI
+INFO: Displaying tile.gourdgarden in NEI
+INFO: Displaying tile.groundgarden in NEI
+INFO: Displaying tile.herbgarden in NEI
+INFO: Displaying tile.leafygarden in NEI
+INFO: Displaying tile.mushroomgarden in NEI
+INFO: Displaying tile.stalkgarden in NEI
+INFO: Displaying tile.textilegarden in NEI
+INFO: Displaying tile.tropicalgarden in NEI
+INFO: Displaying tile.watergarden in NEI
+INFO: Displaying tile.pamCinnamon in NEI
+INFO: Displaying tile.pamMaple in NEI
+INFO: Displaying tile.pamPaperbark in NEI
+INFO: Displaying tile.pamApple in NEI
+INFO: Displaying tile.pamCashew in NEI
+INFO: Displaying tile.pamBanana in NEI
+INFO: Displaying tile.pamAvocado in NEI
+INFO: Displaying tile.pamApricot in NEI
+INFO: Displaying tile.pamAlmond in NEI
+INFO: Displaying tile.pamCherry in NEI
+INFO: Displaying tile.pamChestnut in NEI
+INFO: Displaying tile.pamCoconut in NEI
+INFO: Displaying tile.pamGrapefruit in NEI
+INFO: Displaying tile.pamFig in NEI
+INFO: Displaying tile.pamDurian in NEI
+INFO: Displaying tile.pamDragonfruit in NEI
+INFO: Displaying tile.pamDate in NEI
+INFO: Displaying tile.pamLemon in NEI
+INFO: Displaying tile.pamLime in NEI
+INFO: Displaying tile.pamMango in NEI
+INFO: Displaying tile.pamPapaya in NEI
+INFO: Displaying tile.pamOrange in NEI
+INFO: Displaying tile.pamOlive in NEI
+INFO: Displaying tile.pamNutmeg in NEI
+INFO: Displaying tile.pamPeach in NEI
+INFO: Displaying tile.pamPear in NEI
+INFO: Displaying tile.pamPecan in NEI
+INFO: Displaying tile.pamPeppercorn in NEI
+INFO: Displaying tile.pamStarfruit in NEI
+INFO: Displaying tile.pamPomegranate in NEI
+INFO: Displaying tile.pamPlum in NEI
+INFO: Displaying tile.pamPistachio in NEI
+INFO: Displaying tile.pamPersimmon in NEI
+INFO: Displaying tile.pamVanillabean in NEI
+INFO: Displaying tile.pamWalnut in NEI
+INFO: Displaying tile.pamblackberryCrop in NEI
+INFO: Displaying tile.pamblueberryCrop in NEI
+INFO: Displaying tile.pamcandleberryCrop in NEI
+INFO: Displaying tile.pamraspberryCrop in NEI
+INFO: Displaying tile.pamcucumberCrop in NEI
+INFO: Displaying tile.pamcantaloupeCrop in NEI
+INFO: Displaying tile.pambambooshootCrop in NEI
+INFO: Displaying tile.pamcornCrop in NEI
+INFO: Displaying tile.pamryeCrop in NEI
+INFO: Displaying tile.pamoatsCrop in NEI
+INFO: Displaying tile.pamasparagusCrop in NEI
+INFO: Displaying tile.pamcactusfruitCrop in NEI
+INFO: Displaying tile.pamstrawberryCrop in NEI
+INFO: Displaying tile.pamwintersquashCrop in NEI
+INFO: Displaying tile.pamzucchiniCrop in NEI
+INFO: Displaying tile.pambeetCrop in NEI
+INFO: Displaying tile.pamonionCrop in NEI
+INFO: Displaying tile.pamparsnipCrop in NEI
+INFO: Displaying tile.pampeanutCrop in NEI
+INFO: Displaying tile.pamradishCrop in NEI
+INFO: Displaying tile.pamrutabagaCrop in NEI
+INFO: Displaying tile.pamsweetpotatoCrop in NEI
+INFO: Displaying tile.pammustardseedsCrop in NEI
+INFO: Displaying tile.pamcoffeebeanCrop in NEI
+INFO: Displaying tile.pamtealeafCrop in NEI
+INFO: Displaying tile.pamspiceleafCrop in NEI
+INFO: Displaying tile.pamgingerCrop in NEI
+INFO: Displaying tile.pamgarlicCrop in NEI
+INFO: Displaying tile.pamceleryCrop in NEI
+INFO: Displaying tile.pamrhubarbCrop in NEI
+INFO: Displaying tile.pamturnipCrop in NEI
+INFO: Displaying tile.pambroccoliCrop in NEI
+INFO: Displaying tile.pamcauliflowerCrop in NEI
+INFO: Displaying tile.pamleekCrop in NEI
+INFO: Displaying tile.pamlettuceCrop in NEI
+INFO: Displaying tile.pamscallionCrop in NEI
+INFO: Displaying tile.pamartichokeCrop in NEI
+INFO: Displaying tile.pambrusselsproutCrop in NEI
+INFO: Displaying tile.pamcabbageCrop in NEI
+INFO: Displaying tile.pamspinachCrop in NEI
+INFO: Displaying tile.pamtomatoCrop in NEI
+INFO: Displaying tile.pampeasCrop in NEI
+INFO: Displaying tile.pamokraCrop in NEI
+INFO: Displaying tile.pameggplantCrop in NEI
+INFO: Displaying tile.pamchilipepperCrop in NEI
+INFO: Displaying tile.pambellpepperCrop in NEI
+INFO: Displaying tile.pamsoybeanCrop in NEI
+INFO: Displaying tile.pambeanCrop in NEI
+INFO: Displaying tile.pamwhitemushroomCrop in NEI
+INFO: Displaying tile.pamcottonCrop in NEI
+INFO: Displaying tile.pampineappleCrop in NEI
+INFO: Displaying tile.pamgrapeCrop in NEI
+INFO: Displaying tile.pamkiwiCrop in NEI
+INFO: Displaying tile.pamcranberryCrop in NEI
+INFO: Displaying tile.pamriceCrop in NEI
+INFO: Displaying tile.pamseaweedCrop in NEI
+INFO: Displaying tile.pamcarrotCake in NEI
+INFO: Displaying tile.pamcheeseCake in NEI
+INFO: Displaying tile.pamcherrycheeseCake in NEI
+INFO: Displaying tile.pampineappleupsidedownCake in NEI
+INFO: Displaying tile.pamchocolatesprinkleCake in NEI
+INFO: Displaying tile.pamredvelvetCake in NEI
+INFO: Displaying tile.pamlamingtonCake in NEI
+INFO: Displaying tile.pampavlovaCake in NEI
+INFO: Displaying tile.pamholidayCake in NEI
+INFO: Displaying tile.pambarleyCrop in NEI
+INFO: Displaying tile.pampumpkincheeseCake in NEI
+INFO: Displaying tile.quernon in NEI
+INFO: Displaying tile.pot in NEI
+INFO: Displaying tile.cuttingboard in NEI
+INFO: Displaying tile.ovenon in NEI
+INFO: Displaying tile.pamwaterchestnutCrop in NEI
+INFO: Displaying tile.pamsesameseedsCrop in NEI
+INFO: Displaying tile.pamcurryleafCrop in NEI
+INFO: Displaying item.chocolaterollItem in NEI
+INFO: Displaying item.gendustry.HiveSpawnDebugger in NEI
+INFO: Displaying tile.gendustry.protein in NEI
+INFO: Displaying tile.gendustry.liquiddna in NEI
+INFO: Displaying tile.gendustry.mutagen in NEI
+INFO: [Stuck] Hiding item.microblock in NEI
+INFO: Displaying item.for.grafterProven in NEI
+INFO: Displaying tile.for.slabsDouble.32767 in NEI
+INFO: Displaying tile.for.slabsDoubleFireproof.32767 in NEI
+INFO: Displaying tile.for.mushroom.1 in NEI
+INFO: Displaying tile.for.pods.0 in NEI
+INFO: Displaying tile.for.leaves.0 in NEI
+INFO: Displaying tile.for.saplingGE.0 in NEI
+INFO: Displaying tile.for.stump.0 in NEI
+INFO: Displaying tile.forestry.fluid.short.mead in NEI
+INFO: Displaying tile.forestry.fluid.seedoil in NEI
+INFO: Displaying tile.forestry.fluid.juice in NEI
+INFO: Displaying tile.forestry.fluid.ice in NEI
+INFO: Displaying tile.forestry.fluid.for.honey in NEI
+INFO: Displaying tile.forestry.fluid.glass in NEI
+INFO: Displaying tile.forestry.fluid.biomass in NEI
+INFO: Displaying tile.forestry.fluid.bioethanol in NEI
+INFO: Displaying tile.InkFlower in NEI
+INFO: Displaying item.WandCores.witchwood in NEI
+INFO: Displaying item.WandCores.witchwood_staff in NEI
+INFO: Displaying item.WandCaps.vinteum in NEI
+INFO: Displaying item.FMResource.4 in NEI
+INFO: Displaying item.FMResource.3 in NEI
+INFO: Displaying item.FMResource.2 in NEI
+INFO: Displaying item.TaintFruit in NEI
+INFO: Displaying tile.ArcaneCake in NEI
+INFO: Displaying tile.TaintLeaves in NEI
+INFO: Displaying tile.sign in NEI
+INFO: Displaying item.extrautils:nodeUpgrade.4 in NEI
+INFO: [Stuck] Hiding item.extrautils:microblocks.0 in NEI
+INFO: [Stuck] Hiding tile.extrautils:drum.0 in NEI
+INFO: Displaying item.dark.steel.toughrod in NEI
+INFO: Displaying item.dark.steel.toughbind in NEI
+INFO: Displaying item.dark.steel.toolrod in NEI
+INFO: Displaying item.dark.steel.sword.blade in NEI
+INFO: Displaying item.dark.steel.shuriken in NEI
+INFO: Displaying item.dark.steel.shovel.head in NEI
+INFO: Displaying item.dark.steel.scythe.head in NEI
+INFO: Displaying item.dark.steel.pickaxe.head in NEI
+INFO: Displaying item.dark.steel.medium.guard in NEI
+INFO: Displaying item.dark.steel.lumberaxe.head in NEI
+INFO: Displaying item.dark.steel.large.sword.blade in NEI
+INFO: Displaying item.dark.steel.largeplate in NEI
+INFO: Displaying item.dark.steel.large.guard in NEI
+INFO: Displaying item.dark.steel.knife.blade in NEI
+INFO: Displaying item.dark.steel.hammer.head in NEI
+INFO: Displaying item.dark.steel.full.guard in NEI
+INFO: Displaying item.dark.steel.frypan.head in NEI
+INFO: Displaying item.dark.steel.excavator.head in NEI
+INFO: Displaying item.dark.steel.crossbow.limb in NEI
+INFO: Displaying item.dark.steel.crossbow.body in NEI
+INFO: Displaying item.dark.steel.crossbar in NEI
+INFO: Displaying item.dark.steel.chunk in NEI
+INFO: Displaying item.dark.steel.chisel.head in NEI
+INFO: Displaying item.dark.steel.bow.limb in NEI
+INFO: Displaying item.dark.steel.bolt in NEI
+INFO: Displaying item.dark.steel.binding in NEI
+INFO: Displaying item.dark.steel.battle.sign in NEI
+INFO: Displaying item.dark.steel.axe.head in NEI
+INFO: Displaying item.dark.steel.arrowhead in NEI
+INFO: Displaying item.sapphire.toughrod in NEI
+INFO: Displaying item.sapphire.toughbind in NEI
+INFO: Displaying item.sapphire.toolrod in NEI
+INFO: Displaying item.sapphire.sword.blade in NEI
+INFO: Displaying item.sapphire.shuriken in NEI
+INFO: Displaying item.sapphire.shovel.head in NEI
+INFO: Displaying item.sapphire.scythe.head in NEI
+INFO: Displaying item.sapphire.pickaxe.head in NEI
+INFO: Displaying item.sapphire.medium.guard in NEI
+INFO: Displaying item.sapphire.lumberaxe.head in NEI
+INFO: Displaying item.sapphire.large.sword.blade in NEI
+INFO: Displaying item.sapphire.largeplate in NEI
+INFO: Displaying item.sapphire.large.guard in NEI
+INFO: Displaying item.sapphire.knife.blade in NEI
+INFO: Displaying item.sapphire.hammer.head in NEI
+INFO: Displaying item.sapphire.full.guard in NEI
+INFO: Displaying item.sapphire.frypan.head in NEI
+INFO: Displaying item.sapphire.excavator.head in NEI
+INFO: Displaying item.sapphire.crossbow.limb in NEI
+INFO: Displaying item.sapphire.crossbow.body in NEI
+INFO: Displaying item.sapphire.crossbar in NEI
+INFO: Displaying item.sapphire.chunk in NEI
+INFO: Displaying item.sapphire.chisel.head in NEI
+INFO: Displaying item.sapphire.bow.limb in NEI
+INFO: Displaying item.sapphire.bolt in NEI
+INFO: Displaying item.sapphire.binding in NEI
+INFO: Displaying item.sapphire.battle.sign in NEI
+INFO: Displaying item.sapphire.axe.head in NEI
+INFO: Displaying item.sapphire.arrowhead in NEI
+INFO: Displaying item.ruby.toughrod in NEI
+INFO: Displaying item.ruby.toughbind in NEI
+INFO: Displaying item.ruby.toolrod in NEI
+INFO: Displaying item.ruby.sword.blade in NEI
+INFO: Displaying item.ruby.shuriken in NEI
+INFO: Displaying item.ruby.shovel.head in NEI
+INFO: Displaying item.ruby.scythe.head in NEI
+INFO: Displaying item.ruby.pickaxe.head in NEI
+INFO: Displaying item.ruby.medium.guard in NEI
+INFO: Displaying item.ruby.lumberaxe.head in NEI
+INFO: Displaying item.ruby.large.sword.blade in NEI
+INFO: Displaying item.ruby.largeplate in NEI
+INFO: Displaying item.ruby.large.guard in NEI
+INFO: Displaying item.ruby.knife.blade in NEI
+INFO: Displaying item.ruby.hammer.head in NEI
+INFO: Displaying item.ruby.full.guard in NEI
+INFO: Displaying item.ruby.frypan.head in NEI
+INFO: Displaying item.ruby.excavator.head in NEI
+INFO: Displaying item.ruby.crossbow.limb in NEI
+INFO: Displaying item.ruby.crossbow.body in NEI
+INFO: Displaying item.ruby.crossbar in NEI
+INFO: Displaying item.ruby.chunk in NEI
+INFO: Displaying item.ruby.chisel.head in NEI
+INFO: Displaying item.ruby.bow.limb in NEI
+INFO: Displaying item.ruby.bolt in NEI
+INFO: Displaying item.ruby.binding in NEI
+INFO: Displaying item.ruby.battle.sign in NEI
+INFO: Displaying item.ruby.axe.head in NEI
+INFO: Displaying item.ruby.arrowhead in NEI
+INFO: Displaying item.peridot.toughrod in NEI
+INFO: Displaying item.peridot.toughbind in NEI
+INFO: Displaying item.peridot.toolrod in NEI
+INFO: Displaying item.peridot.sword.blade in NEI
+INFO: Displaying item.peridot.shuriken in NEI
+INFO: Displaying item.peridot.shovel.head in NEI
+INFO: Displaying item.peridot.scythe.head in NEI
+INFO: Displaying item.peridot.pickaxe.head in NEI
+INFO: Displaying item.peridot.medium.guard in NEI
+INFO: Displaying item.peridot.lumberaxe.head in NEI
+INFO: Displaying item.peridot.large.sword.blade in NEI
+INFO: Displaying item.peridot.largeplate in NEI
+INFO: Displaying item.peridot.large.guard in NEI
+INFO: Displaying item.peridot.knife.blade in NEI
+INFO: Displaying item.peridot.hammer.head in NEI
+INFO: Displaying item.peridot.full.guard in NEI
+INFO: Displaying item.peridot.frypan.head in NEI
+INFO: Displaying item.peridot.excavator.head in NEI
+INFO: Displaying item.peridot.crossbow.limb in NEI
+INFO: Displaying item.peridot.crossbow.body in NEI
+INFO: Displaying item.peridot.crossbar in NEI
+INFO: Displaying item.peridot.chunk in NEI
+INFO: Displaying item.peridot.chisel.head in NEI
+INFO: Displaying item.peridot.bow.limb in NEI
+INFO: Displaying item.peridot.bolt in NEI
+INFO: Displaying item.peridot.binding in NEI
+INFO: Displaying item.peridot.battle.sign in NEI
+INFO: Displaying item.peridot.axe.head in NEI
+INFO: Displaying item.peridot.arrowhead in NEI
+INFO: Displaying item.amethyst.toughrod in NEI
+INFO: Displaying item.amethyst.toughbind in NEI
+INFO: Displaying item.amethyst.toolrod in NEI
+INFO: Displaying item.amethyst.sword.blade in NEI
+INFO: Displaying item.amethyst.shuriken in NEI
+INFO: Displaying item.amethyst.shovel.head in NEI
+INFO: Displaying item.amethyst.scythe.head in NEI
+INFO: Displaying item.amethyst.pickaxe.head in NEI
+INFO: Displaying item.amethyst.medium.guard in NEI
+INFO: Displaying item.amethyst.lumberaxe.head in NEI
+INFO: Displaying item.amethyst.large.sword.blade in NEI
+INFO: Displaying item.amethyst.largeplate in NEI
+INFO: Displaying item.amethyst.large.guard in NEI
+INFO: Displaying item.amethyst.knife.blade in NEI
+INFO: Displaying item.amethyst.hammer.head in NEI
+INFO: Displaying item.amethyst.full.guard in NEI
+INFO: Displaying item.amethyst.frypan.head in NEI
+INFO: Displaying item.amethyst.excavator.head in NEI
+INFO: Displaying item.amethyst.crossbow.limb in NEI
+INFO: Displaying item.amethyst.crossbow.body in NEI
+INFO: Displaying item.amethyst.crossbar in NEI
+INFO: Displaying item.amethyst.chunk in NEI
+INFO: Displaying item.amethyst.chisel.head in NEI
+INFO: Displaying item.amethyst.bow.limb in NEI
+INFO: Displaying item.amethyst.bolt in NEI
+INFO: Displaying item.amethyst.binding in NEI
+INFO: Displaying item.amethyst.battle.sign in NEI
+INFO: Displaying item.amethyst.axe.head in NEI
+INFO: Displaying item.amethyst.arrowhead in NEI
+INFO: Displaying item.elementium.toughrod in NEI
+INFO: Displaying item.elementium.toughbind in NEI
+INFO: Displaying item.elementium.toolrod in NEI
+INFO: Displaying item.elementium.sword.blade in NEI
+INFO: Displaying item.elementium.shuriken in NEI
+INFO: Displaying item.elementium.shovel.head in NEI
+INFO: Displaying item.elementium.scythe.head in NEI
+INFO: Displaying item.elementium.pickaxe.head in NEI
+INFO: Displaying item.elementium.medium.guard in NEI
+INFO: Displaying item.elementium.lumberaxe.head in NEI
+INFO: Displaying item.elementium.large.sword.blade in NEI
+INFO: Displaying item.elementium.largeplate in NEI
+INFO: Displaying item.elementium.large.guard in NEI
+INFO: Displaying item.elementium.knife.blade in NEI
+INFO: Displaying item.elementium.hammer.head in NEI
+INFO: Displaying item.elementium.full.guard in NEI
+INFO: Displaying item.elementium.frypan.head in NEI
+INFO: Displaying item.elementium.excavator.head in NEI
+INFO: Displaying item.elementium.crossbow.limb in NEI
+INFO: Displaying item.elementium.crossbow.body in NEI
+INFO: Displaying item.elementium.crossbar in NEI
+INFO: Displaying item.elementium.chunk in NEI
+INFO: Displaying item.elementium.chisel.head in NEI
+INFO: Displaying item.elementium.bow.limb in NEI
+INFO: Displaying item.elementium.bolt in NEI
+INFO: Displaying item.elementium.binding in NEI
+INFO: Displaying item.elementium.battle.sign in NEI
+INFO: Displaying item.elementium.axe.head in NEI
+INFO: Displaying item.elementium.arrowhead in NEI
+INFO: Displaying item.ghostwood.toughrod in NEI
+INFO: Displaying item.ghostwood.toughbind in NEI
+INFO: Displaying item.ghostwood.toolrod in NEI
+INFO: Displaying item.ghostwood.sword.blade in NEI
+INFO: Displaying item.ghostwood.shuriken in NEI
+INFO: Displaying item.ghostwood.shovel.head in NEI
+INFO: Displaying item.ghostwood.scythe.head in NEI
+INFO: Displaying item.ghostwood.pickaxe.head in NEI
+INFO: Displaying item.ghostwood.medium.guard in NEI
+INFO: Displaying item.ghostwood.lumberaxe.head in NEI
+INFO: Displaying item.ghostwood.large.sword.blade in NEI
+INFO: Displaying item.ghostwood.largeplate in NEI
+INFO: Displaying item.ghostwood.large.guard in NEI
+INFO: Displaying item.ghostwood.knife.blade in NEI
+INFO: Displaying item.ghostwood.hammer.head in NEI
+INFO: Displaying item.ghostwood.full.guard in NEI
+INFO: Displaying item.ghostwood.frypan.head in NEI
+INFO: Displaying item.ghostwood.excavator.head in NEI
+INFO: Displaying item.ghostwood.crossbow.limb in NEI
+INFO: Displaying item.ghostwood.crossbow.body in NEI
+INFO: Displaying item.ghostwood.crossbar in NEI
+INFO: Displaying item.ghostwood.chunk in NEI
+INFO: Displaying item.ghostwood.chisel.head in NEI
+INFO: Displaying item.ghostwood.bow.limb in NEI
+INFO: Displaying item.ghostwood.bolt in NEI
+INFO: Displaying item.ghostwood.binding in NEI
+INFO: Displaying item.ghostwood.battle.sign in NEI
+INFO: Displaying item.ghostwood.axe.head in NEI
+INFO: Displaying item.ghostwood.arrowhead in NEI
+INFO: Displaying item.fusewood.toughrod in NEI
+INFO: Displaying item.fusewood.toughbind in NEI
+INFO: Displaying item.fusewood.toolrod in NEI
+INFO: Displaying item.fusewood.sword.blade in NEI
+INFO: Displaying item.fusewood.shuriken in NEI
+INFO: Displaying item.fusewood.shovel.head in NEI
+INFO: Displaying item.fusewood.scythe.head in NEI
+INFO: Displaying item.fusewood.pickaxe.head in NEI
+INFO: Displaying item.fusewood.medium.guard in NEI
+INFO: Displaying item.fusewood.lumberaxe.head in NEI
+INFO: Displaying item.fusewood.large.sword.blade in NEI
+INFO: Displaying item.fusewood.largeplate in NEI
+INFO: Displaying item.fusewood.large.guard in NEI
+INFO: Displaying item.fusewood.knife.blade in NEI
+INFO: Displaying item.fusewood.hammer.head in NEI
+INFO: Displaying item.fusewood.full.guard in NEI
+INFO: Displaying item.fusewood.frypan.head in NEI
+INFO: Displaying item.fusewood.excavator.head in NEI
+INFO: Displaying item.fusewood.crossbow.limb in NEI
+INFO: Displaying item.fusewood.crossbow.body in NEI
+INFO: Displaying item.fusewood.crossbar in NEI
+INFO: Displaying item.fusewood.chunk in NEI
+INFO: Displaying item.fusewood.chisel.head in NEI
+INFO: Displaying item.fusewood.bow.limb in NEI
+INFO: Displaying item.fusewood.bolt in NEI
+INFO: Displaying item.fusewood.binding in NEI
+INFO: Displaying item.fusewood.battle.sign in NEI
+INFO: Displaying item.fusewood.axe.head in NEI
+INFO: Displaying item.fusewood.arrowhead in NEI
+INFO: Displaying item.darkwood.toughrod in NEI
+INFO: Displaying item.darkwood.toughbind in NEI
+INFO: Displaying item.darkwood.toolrod in NEI
+INFO: Displaying item.darkwood.sword.blade in NEI
+INFO: Displaying item.darkwood.shuriken in NEI
+INFO: Displaying item.darkwood.shovel.head in NEI
+INFO: Displaying item.darkwood.scythe.head in NEI
+INFO: Displaying item.darkwood.pickaxe.head in NEI
+INFO: Displaying item.darkwood.medium.guard in NEI
+INFO: Displaying item.darkwood.lumberaxe.head in NEI
+INFO: Displaying item.darkwood.large.sword.blade in NEI
+INFO: Displaying item.darkwood.largeplate in NEI
+INFO: Displaying item.darkwood.large.guard in NEI
+INFO: Displaying item.darkwood.knife.blade in NEI
+INFO: Displaying item.darkwood.hammer.head in NEI
+INFO: Displaying item.darkwood.full.guard in NEI
+INFO: Displaying item.darkwood.frypan.head in NEI
+INFO: Displaying item.darkwood.excavator.head in NEI
+INFO: Displaying item.darkwood.crossbow.limb in NEI
+INFO: Displaying item.darkwood.crossbow.body in NEI
+INFO: Displaying item.darkwood.crossbar in NEI
+INFO: Displaying item.darkwood.chunk in NEI
+INFO: Displaying item.darkwood.chisel.head in NEI
+INFO: Displaying item.darkwood.bow.limb in NEI
+INFO: Displaying item.darkwood.bolt in NEI
+INFO: Displaying item.darkwood.binding in NEI
+INFO: Displaying item.darkwood.battle.sign in NEI
+INFO: Displaying item.darkwood.axe.head in NEI
+INFO: Displaying item.darkwood.arrowhead in NEI
+INFO: Displaying item.bloodwood.toughrod in NEI
+INFO: Displaying item.bloodwood.toughbind in NEI
+INFO: Displaying item.bloodwood.toolrod in NEI
+INFO: Displaying item.bloodwood.sword.blade in NEI
+INFO: Displaying item.bloodwood.shuriken in NEI
+INFO: Displaying item.bloodwood.shovel.head in NEI
+INFO: Displaying item.bloodwood.scythe.head in NEI
+INFO: Displaying item.bloodwood.pickaxe.head in NEI
+INFO: Displaying item.bloodwood.medium.guard in NEI
+INFO: Displaying item.bloodwood.lumberaxe.head in NEI
+INFO: Displaying item.bloodwood.large.sword.blade in NEI
+INFO: Displaying item.bloodwood.largeplate in NEI
+INFO: Displaying item.bloodwood.large.guard in NEI
+INFO: Displaying item.bloodwood.knife.blade in NEI
+INFO: Displaying item.bloodwood.hammer.head in NEI
+INFO: Displaying item.bloodwood.full.guard in NEI
+INFO: Displaying item.bloodwood.frypan.head in NEI
+INFO: Displaying item.bloodwood.excavator.head in NEI
+INFO: Displaying item.bloodwood.crossbow.limb in NEI
+INFO: Displaying item.bloodwood.crossbow.body in NEI
+INFO: Displaying item.bloodwood.crossbar in NEI
+INFO: Displaying item.bloodwood.chunk in NEI
+INFO: Displaying item.bloodwood.chisel.head in NEI
+INFO: Displaying item.bloodwood.bow.limb in NEI
+INFO: Displaying item.bloodwood.bolt in NEI
+INFO: Displaying item.bloodwood.binding in NEI
+INFO: Displaying item.bloodwood.battle.sign in NEI
+INFO: Displaying item.bloodwood.axe.head in NEI
+INFO: Displaying item.bloodwood.arrowhead in NEI
+INFO: Displaying item.extratic.bucket in NEI
+INFO: Displaying item.drulloy.ingot in NEI
+INFO: Displaying item.null in NEI
+INFO: Displaying tile.molten.witheriron in NEI
+INFO: Displaying tile.molten.voidmetal in NEI
+INFO: Displaying tile.molten.terrasteel in NEI
+INFO: Displaying tile.molten.manasteel in NEI
+INFO: Displaying tile.molten.elementium in NEI
+INFO: Displaying tile.molten.adamantine in NEI
+INFO: Displaying tile.molten.brass in NEI
+INFO: Displaying tile.molten.pokefennium in NEI
+INFO: Displaying tile.null in NEI
+INFO: Displaying tile.molten.zinc in NEI
+INFO: Displaying tile.molten.red.aurum in NEI
+INFO: Displaying tile.molten.dark.steel in NEI
+INFO: Displaying tile.molten.fairy in NEI
+INFO: Displaying item.extratic.gear in NEI
+INFO: Displaying item.ice_shard in NEI
+INFO: Displaying exnihilo.witchwater in NEI
+INFO: Displaying exnihilo.leaves.infested.oak in NEI
+INFO: Displaying item.endertech.exchanger.exchangerCreative in NEI
+INFO: Displaying tile.healthPad.0 in NEI
+INFO: Displaying tile.chargePad.0 in NEI
+INFO: Displaying item.cookingbook:toast in NEI
+INFO: Displaying item.upgrade_reversion.name in NEI
+INFO: Displaying tile.chisel.bloodBrick in NEI
+INFO: Displaying tile.blockCarpentersDoor in NEI
+INFO: Displaying tile.blockCarpentersBed in NEI
+INFO: Displaying item.waterBowl in NEI
+INFO: Displaying item.gaiaHead in NEI
+INFO: Displaying item.manaTablet in NEI
+INFO: Displaying tile.botania:pavement0SlabFull in NEI
+INFO: Displaying tile.botania:shimmerrock0SlabFull in NEI
+INFO: Displaying tile.botania:pavement5SlabFull in NEI
+INFO: Displaying tile.botania:shimmerwoodPlanks0SlabFull in NEI
+INFO: Displaying tile.root in NEI
+INFO: Displaying tile.cacophoniumBlock in NEI
+INFO: Displaying tile.botania:endStoneBrick2SlabFull in NEI
+INFO: Displaying tile.botania:pavement2SlabFull in NEI
+INFO: Displaying tile.botania:pavement3SlabFull in NEI
+INFO: Displaying tile.gaiaHeadBlock in NEI
+INFO: Displaying tile.botania:pavement4SlabFull in NEI
+INFO: Displaying tile.botania:pavement1SlabFull in NEI
+INFO: Displaying tile.botania:stone9SlabFull in NEI
+INFO: Displaying tile.botania:stone1SlabFull in NEI
+INFO: Displaying tile.botania:stone8SlabFull in NEI
+INFO: Displaying tile.botania:stone0SlabFull in NEI
+INFO: Displaying tile.botania:stone11SlabFull in NEI
+INFO: Displaying tile.botania:stone10SlabFull in NEI
+INFO: Displaying tile.botania:stone3SlabFull in NEI
+INFO: Displaying tile.fakeAir in NEI
+INFO: Displaying tile.botania:quartzSlabSunnyFull in NEI
+INFO: Displaying tile.botania:stone2SlabFull in NEI
+INFO: Displaying tile.botania:livingwood1SlabFull in NEI
+INFO: Displaying tile.botania:quartzSlabLavenderFull in NEI
+INFO: Displaying tile.botania:biomeStoneA2SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA1SlabFull in NEI
+INFO: Displaying tile.botania:prismarine1SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA3SlabFull in NEI
+INFO: Displaying tile.botania:prismarine0SlabFull in NEI
+INFO: Displaying tile.buriedPetals0 in NEI
+INFO: Displaying tile.botania:quartzSlabRedFull in NEI
+INFO: Displaying tile.botania:biomeStoneA0SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneB3SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneB7SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneB6SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneB5SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneB4SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneB2SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneB1SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneB0SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA15SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA14SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA13SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA12SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA11SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA10SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA9SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA8SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA7SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA6SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA5SlabFull in NEI
+INFO: Displaying tile.botania:biomeStoneA4SlabFull in NEI
+INFO: Displaying tile.botania:endStoneBrick0SlabFull in NEI
+INFO: Displaying tile.botania:dirtPath0SlabFull in NEI
+INFO: Displaying tile.botania:customBrick3SlabFull in NEI
+INFO: Displaying tile.botania:customBrick2SlabFull in NEI
+INFO: Displaying tile.botania:customBrick1SlabFull in NEI
+INFO: Displaying tile.botania:customBrick0SlabFull in NEI
+INFO: Displaying tile.botania:prismarine2SlabFull in NEI
+INFO: Displaying tile.botania:thatch0SlabFull in NEI
+INFO: Displaying tile.botania:reedBlock0SlabFull in NEI
+INFO: Displaying tile.botania:quartzSlabManaFull in NEI
+INFO: Displaying tile.botania:dreamwood1SlabFull in NEI
+INFO: Displaying tile.botania:dreamwood0SlabFull in NEI
+INFO: Displaying tile.botania:livingrock1SlabFull in NEI
+INFO: Displaying tile.botania:livingrock0SlabFull in NEI
+INFO: Displaying tile.botania:livingwood0SlabFull in NEI
+INFO: Displaying tile.botania:quartzSlabElfFull in NEI
+INFO: Displaying tile.botania:quartzSlabBlazeFull in NEI
+INFO: Displaying tile.botania:quartzSlabDarkFull in NEI
+INFO: Displaying tile.manaFlame in NEI
+INFO: Displaying tile.solidVine in NEI
+INFO: Displaying tile.platform2 in NEI
+INFO: Displaying tile.enchanter in NEI
+INFO: Displaying tile.pool1 in NEI
+INFO: Displaying tile.blockReactorPart.7 in NEI
+INFO: Displaying tile.blockTurbinePart.5 in NEI
+INFO: Displaying tile.blockMBCreativePart.32767 in NEI
+INFO: Displaying item.bucket.yellorium in NEI
+INFO: Displaying item.bucket.cyanite in NEI
+INFO: Displaying item.beefDebugTool in NEI
+INFO: Displaying tile.fluid.cyanite.still in NEI
+INFO: Displaying tile.fluid.yellorium.still in NEI
+INFO: Displaying item.bq_standard.loot_chest in NEI
+INFO: Displaying item.bq_standard.loot_chest in NEI
+INFO: Displaying item.betterquesting.placeholder in NEI
+INFO: Displaying item.betterquesting.guide in NEI
+INFO: Displaying FrameBookcase in NEI
+INFO: Displaying OldOakBookcase in NEI
+INFO: Displaying AcaciaBookcase in NEI
+INFO: Displaying JungleBookcase in NEI
+INFO: Displaying BirchBookcase in NEI
+INFO: Displaying SpruceBookcase in NEI
+INFO: Displaying OakBookcase in NEI
+INFO: Displaying item.RecipeBook in NEI
+INFO: Displaying item.BiblioCreativeLock in NEI
+INFO: Displaying item.TesterItem in NEI
+INFO: Displaying item.EnchantedPlate in NEI
+INFO: Displaying item.AtlasPlate in NEI
+INFO: Displaying tile.BiblioClipboard in NEI
+INFO: Displaying item.Ring.0 in NEI
+INFO: Displaying tile.blockCreativeJar.32767 in NEI
+INFO: Displaying item.creativeTool.0 in NEI
+INFO: Displaying tile.blockFluidMilk in NEI
+INFO: Displaying tile.blockFluidMushroom in NEI
+INFO: Displaying tile.blockFluidVishroom in NEI
+INFO: Displaying item.aroma1997core:wrenched in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Displaying item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Displaying item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Displaying item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Displaying item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Displaying item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Displaying item.appliedenergistics2.ItemEncodedPattern in NEI
+INFO: Displaying tile.appliedenergistics2.FluixSlabBlock in NEI
+INFO: Displaying tile.appliedenergistics2.SkyStoneSmallBrickSlabBlock in NEI
+INFO: Displaying tile.appliedenergistics2.ChiseledQuartzSlabBlock in NEI
+INFO: Displaying tile.appliedenergistics2.SkyStoneSlabBlock in NEI
+INFO: Displaying tile.appliedenergistics2.QuartzPillarSlabBlock in NEI
+INFO: Displaying tile.appliedenergistics2.SkyStoneBlockSlabBlock in NEI
+INFO: Displaying tile.appliedenergistics2.SkyStoneBrickSlabBlock in NEI
+INFO: Displaying tile.appliedenergistics2.QuartzSlabBlock in NEI
+INFO: Displaying tile.appliedenergistics2.BlockCreativeEnergyCell in NEI
+INFO: Displaying tile.appliedenergistics2.BlockPaint in NEI
+INFO: Displaying tile.appliedenergistics2.BlockCableBus in NEI
+INFO: Displaying item.appliedenergistics2.ItemCreativeStorageCell in NEI
+INFO: [Stuck] Hiding item.appliedenergistics2.ItemFacade in NEI
+INFO: Displaying item.AccidentallyCircumstantialEvents_identifier in NEI
+INFO: Displaying item.activationCrystalCreative in NEI
+INFO: Displaying item.cheatyItem in NEI
+INFO: Displaying item.itemDiabloKey in NEI
+INFO: Displaying item.creativeDagger in NEI
+INFO: Displaying tile.blockMimic in NEI
+INFO: Displaying tile.blockBloodLightSource in NEI
+INFO: Displaying tile.blockSpectralContainer in NEI
+INFO: Displaying tile.lifeEssenceFluidBlock in NEI
+INFO: Displaying tile.schematicSaver in NEI
+INFO: Displaying tile.spectralBlock in NEI
+INFO: Removing recipe for Block of Quartz
+INFO: Removing recipe for Nether Brick
+INFO: Removing recipe for Stone Bricks
+INFO: Removing recipe for Bricks
+INFO: Removing recipe for Cobblestone
+INFO: Removing recipe for Sandstone
+INFO: Removing recipe for Dark Oak Wood Planks
+INFO: Removing recipe for Acacia Wood Planks
+INFO: Removing recipe for Jungle Wood Planks
+INFO: Removing recipe for Birch Wood Planks
+INFO: Removing recipe for Spruce Wood Planks
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Clay
+INFO: Removing recipe for Upgrade (Emerald)
+INFO: Removing recipe for Upgrade (Platinum)
+INFO: Removing recipe for Upgrade (Diamond)
+INFO: Removing recipe for Upgrade (Quartz)
+INFO: Removing recipe for Upgrade (Gold)
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Fresh Water
+INFO: Removing recipe for Fresh Water
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <Natura:heatsand> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <Natura:heatsand> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <Natura:heatsand> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <exnihilo:exnihilo.gravel_nether> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <exnihilo:exnihilo.gravel_nether> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <exnihilo:exnihilo.gravel_nether> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:snow> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:soul_sand> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:soul_sand> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Restoring 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Restoring 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Restoring 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: Removing recipe for Blood Altar
+INFO: Removing recipe for Sacrificial Orb
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing Alchemy Recipe for Extra Life
+INFO: Removing Alchemy Recipe for Blaze Rod
+INFO: Removing Alchemy Recipe for Soul Shard
+INFO: Removing Blood Altar Recipe for Primal Mana Bucket
+INFO: Removing Blood Altar Recipe for Life Shard
+INFO: Removing Alchemy Recipe for Spawn Cow
+INFO: Removing Alchemy Recipe for Spawn Chicken
+INFO: Removing Blood Altar Recipe for Spawn Eldritch Guardian
+INFO: Removing Blood Altar Recipe for Spawn Mooshroom
+INFO: Removing Blood Altar Recipe for Spawn Sheep
+INFO: Removing Blood Altar Recipe for Spawn Pig
+INFO: Removing minetweaker command mfr
+INFO: Removing minetweaker command thermalexpansion
+INFO: Removing minetweaker command aspectList
+INFO: Removing minetweaker command research
+INFO: Removing minetweaker command tconstruct
+INFO: Removing minetweaker command modifiers
+INFO: Removing minetweaker command materials
+INFO: Removing minetweaker command exnihilo
+INFO: Removing minetweaker command chiselVariations
+INFO: Removing minetweaker command chiselGroups
+INFO: Removing minetweaker command botania
+INFO: Removing minetweaker command botaniaOrechid
+INFO: Removing minetweaker command lexiconKnowledgeTypes
+INFO: Removing minetweaker command botaniaBrews
+INFO: Removing minetweaker command lexiconPages
+INFO: Removing minetweaker command lexiconCategories
+INFO: Removing minetweaker command appeng
+INFO: Removing minetweaker command entities
+INFO: Removing minetweaker command tooltips
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command exnihilo
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
+INFO: Adding minetweaker command thermalexpansion
+INFO: Adding minetweaker command mfr
+INFO: Adding Blood Altar Recipe for Spawn Pig
+INFO: Adding Blood Altar Recipe for Spawn Sheep
+INFO: Adding Blood Altar Recipe for Spawn Mooshroom
+INFO: Adding Blood Altar Recipe for Spawn Eldritch Guardian
+INFO: Adding Alchemy Recipe for Spawn Chicken
+INFO: Adding Alchemy Recipe for Spawn Cow
+INFO: Adding Blood Altar Recipe for Life Shard
+INFO: Adding Blood Altar Recipe for Primal Mana Bucket
+INFO: Adding Alchemy Recipe for Soul Shard
+INFO: Adding Alchemy Recipe for Blaze Rod
+INFO: Adding Alchemy Recipe for Extra Life
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Sacrificial Orb
+INFO: Adding recipe for Blood Altar
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:dirt:2> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:soul_sand> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:soul_sand> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:snow> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <exnihilo:exnihilo.gravel_nether> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <exnihilo:exnihilo.gravel_nether> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <exnihilo:exnihilo.gravel_nether> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <Natura:heatsand> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <Natura:heatsand> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <Natura:heatsand> (1 entries)
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Adding recipe for Fresh Water
+INFO: Adding recipe for Fresh Water
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Upgrade (Gold)
+INFO: Adding recipe for Upgrade (Quartz)
+INFO: Adding recipe for Upgrade (Diamond)
+INFO: Adding recipe for Upgrade (Platinum)
+INFO: Adding recipe for Upgrade (Emerald)
+INFO: Adding recipe for Clay
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Spruce Wood Planks
+INFO: Adding recipe for Birch Wood Planks
+INFO: Adding recipe for Jungle Wood Planks
+INFO: Adding recipe for Acacia Wood Planks
+INFO: Adding recipe for Dark Oak Wood Planks
+INFO: Adding recipe for Sandstone
+INFO: Adding recipe for Cobblestone
+INFO: Adding recipe for Bricks
+INFO: Adding recipe for Stone Bricks
+INFO: Adding recipe for Nether Brick
+INFO: Adding recipe for Block of Quartz
+INFO: Hiding tile.spectralBlock in NEI
+INFO: Hiding tile.schematicSaver in NEI
+INFO: Hiding tile.lifeEssenceFluidBlock in NEI
+INFO: Hiding tile.blockSpectralContainer in NEI
+INFO: Hiding tile.blockBloodLightSource in NEI
+INFO: Hiding tile.blockMimic in NEI
+INFO: Hiding item.creativeDagger in NEI
+INFO: Hiding item.itemDiabloKey in NEI
+INFO: Hiding item.cheatyItem in NEI
+INFO: Hiding item.activationCrystalCreative in NEI
+INFO: Hiding item.AccidentallyCircumstantialEvents_identifier in NEI
+INFO: Hiding item.appliedenergistics2.ItemFacade in NEI
+INFO: Hiding item.appliedenergistics2.ItemCreativeStorageCell in NEI
+INFO: Hiding tile.appliedenergistics2.BlockCableBus in NEI
+INFO: Hiding tile.appliedenergistics2.BlockPaint in NEI
+INFO: Hiding tile.appliedenergistics2.BlockCreativeEnergyCell in NEI
+INFO: Hiding tile.appliedenergistics2.QuartzSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.SkyStoneBrickSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.SkyStoneBlockSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.QuartzPillarSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.SkyStoneSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.ChiseledQuartzSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.SkyStoneSmallBrickSlabBlock in NEI
+INFO: Hiding tile.appliedenergistics2.FluixSlabBlock in NEI
+INFO: Hiding item.appliedenergistics2.ItemEncodedPattern in NEI
+INFO: Hiding item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Hiding item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Hiding item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Hiding item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Hiding item.appliedenergistics2.ItemPart.P2PTunnel in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.appliedenergistics2.ItemPaintBall in NEI
+INFO: Hiding item.aroma1997core:wrenched in NEI
+INFO: Hiding tile.blockFluidVishroom in NEI
+INFO: Hiding tile.blockFluidMushroom in NEI
+INFO: Hiding tile.blockFluidMilk in NEI
+INFO: Hiding item.creativeTool.0 in NEI
+INFO: Hiding tile.blockCreativeJar.32767 in NEI
+INFO: Hiding item.Ring.0 in NEI
+INFO: Hiding tile.BiblioClipboard in NEI
+INFO: Hiding item.AtlasPlate in NEI
+INFO: Hiding item.EnchantedPlate in NEI
+INFO: Hiding item.TesterItem in NEI
+INFO: Hiding item.BiblioCreativeLock in NEI
+INFO: Hiding item.RecipeBook in NEI
+INFO: Hiding OakBookcase in NEI
+INFO: Hiding SpruceBookcase in NEI
+INFO: Hiding BirchBookcase in NEI
+INFO: Hiding JungleBookcase in NEI
+INFO: Hiding AcaciaBookcase in NEI
+INFO: Hiding OldOakBookcase in NEI
+INFO: Hiding FrameBookcase in NEI
+INFO: Hiding item.betterquesting.guide in NEI
+INFO: Hiding item.betterquesting.placeholder in NEI
+INFO: Hiding item.bq_standard.loot_chest in NEI
+INFO: Hiding item.bq_standard.loot_chest in NEI
+INFO: Hiding tile.fluid.yellorium.still in NEI
+INFO: Hiding tile.fluid.cyanite.still in NEI
+INFO: Hiding item.beefDebugTool in NEI
+INFO: Hiding item.bucket.cyanite in NEI
+INFO: Hiding item.bucket.yellorium in NEI
+INFO: Hiding tile.blockMBCreativePart.32767 in NEI
+INFO: Hiding tile.blockTurbinePart.5 in NEI
+INFO: Hiding tile.blockReactorPart.7 in NEI
+INFO: Hiding tile.pool1 in NEI
+INFO: Hiding tile.enchanter in NEI
+INFO: Hiding tile.platform2 in NEI
+INFO: Hiding tile.solidVine in NEI
+INFO: Hiding tile.manaFlame in NEI
+INFO: Hiding tile.botania:quartzSlabDarkFull in NEI
+INFO: Hiding tile.botania:quartzSlabBlazeFull in NEI
+INFO: Hiding tile.botania:quartzSlabElfFull in NEI
+INFO: Hiding tile.botania:livingwood0SlabFull in NEI
+INFO: Hiding tile.botania:livingrock0SlabFull in NEI
+INFO: Hiding tile.botania:livingrock1SlabFull in NEI
+INFO: Hiding tile.botania:dreamwood0SlabFull in NEI
+INFO: Hiding tile.botania:dreamwood1SlabFull in NEI
+INFO: Hiding tile.botania:quartzSlabManaFull in NEI
+INFO: Hiding tile.botania:reedBlock0SlabFull in NEI
+INFO: Hiding tile.botania:thatch0SlabFull in NEI
+INFO: Hiding tile.botania:prismarine2SlabFull in NEI
+INFO: Hiding tile.botania:customBrick0SlabFull in NEI
+INFO: Hiding tile.botania:customBrick1SlabFull in NEI
+INFO: Hiding tile.botania:customBrick2SlabFull in NEI
+INFO: Hiding tile.botania:customBrick3SlabFull in NEI
+INFO: Hiding tile.botania:dirtPath0SlabFull in NEI
+INFO: Hiding tile.botania:endStoneBrick0SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA4SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA5SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA6SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA7SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA8SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA9SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA10SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA11SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA12SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA13SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA14SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA15SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB0SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB1SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB2SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB4SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB5SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB6SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB7SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneB3SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA0SlabFull in NEI
+INFO: Hiding tile.botania:quartzSlabRedFull in NEI
+INFO: Hiding tile.buriedPetals0 in NEI
+INFO: Hiding tile.botania:prismarine0SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA3SlabFull in NEI
+INFO: Hiding tile.botania:prismarine1SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA1SlabFull in NEI
+INFO: Hiding tile.botania:biomeStoneA2SlabFull in NEI
+INFO: Hiding tile.botania:quartzSlabLavenderFull in NEI
+INFO: Hiding tile.botania:livingwood1SlabFull in NEI
+INFO: Hiding tile.botania:stone2SlabFull in NEI
+INFO: Hiding tile.botania:quartzSlabSunnyFull in NEI
+INFO: Hiding tile.fakeAir in NEI
+INFO: Hiding tile.botania:stone3SlabFull in NEI
+INFO: Hiding tile.botania:stone10SlabFull in NEI
+INFO: Hiding tile.botania:stone11SlabFull in NEI
+INFO: Hiding tile.botania:stone0SlabFull in NEI
+INFO: Hiding tile.botania:stone8SlabFull in NEI
+INFO: Hiding tile.botania:stone1SlabFull in NEI
+INFO: Hiding tile.botania:stone9SlabFull in NEI
+INFO: Hiding tile.botania:pavement1SlabFull in NEI
+INFO: Hiding tile.botania:pavement4SlabFull in NEI
+INFO: Hiding tile.gaiaHeadBlock in NEI
+INFO: Hiding tile.botania:pavement3SlabFull in NEI
+INFO: Hiding tile.botania:pavement2SlabFull in NEI
+INFO: Hiding tile.botania:endStoneBrick2SlabFull in NEI
+INFO: Hiding tile.cacophoniumBlock in NEI
+INFO: Hiding tile.root in NEI
+INFO: Hiding tile.botania:shimmerwoodPlanks0SlabFull in NEI
+INFO: Hiding tile.botania:pavement5SlabFull in NEI
+INFO: Hiding tile.botania:shimmerrock0SlabFull in NEI
+INFO: Hiding tile.botania:pavement0SlabFull in NEI
+INFO: Hiding item.manaTablet in NEI
+INFO: Hiding item.gaiaHead in NEI
+INFO: Hiding item.waterBowl in NEI
+INFO: Hiding tile.blockCarpentersBed in NEI
+INFO: Hiding tile.blockCarpentersDoor in NEI
+INFO: Hiding tile.chisel.bloodBrick in NEI
+INFO: Hiding item.upgrade_reversion.name in NEI
+INFO: Hiding item.cookingbook:toast in NEI
+INFO: Hiding tile.chargePad.0 in NEI
+INFO: Hiding tile.healthPad.0 in NEI
+INFO: Hiding item.endertech.exchanger.exchangerCreative in NEI
+INFO: Hiding exnihilo.leaves.infested.oak in NEI
+INFO: Hiding exnihilo.witchwater in NEI
+INFO: Hiding item.ice_shard in NEI
+INFO: Hiding item.extratic.gear in NEI
+INFO: Hiding tile.molten.fairy in NEI
+INFO: Hiding tile.molten.dark.steel in NEI
+INFO: Hiding tile.molten.red.aurum in NEI
+INFO: Hiding tile.molten.zinc in NEI
+INFO: Hiding tile.null in NEI
+INFO: Hiding tile.molten.pokefennium in NEI
+INFO: Hiding tile.molten.brass in NEI
+INFO: Hiding tile.molten.adamantine in NEI
+INFO: Hiding tile.molten.elementium in NEI
+INFO: Hiding tile.molten.manasteel in NEI
+INFO: Hiding tile.molten.terrasteel in NEI
+INFO: Hiding tile.molten.voidmetal in NEI
+INFO: Hiding tile.molten.witheriron in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.drulloy.ingot in NEI
+INFO: Hiding item.extratic.bucket in NEI
+INFO: Hiding item.bloodwood.arrowhead in NEI
+INFO: Hiding item.bloodwood.axe.head in NEI
+INFO: Hiding item.bloodwood.battle.sign in NEI
+INFO: Hiding item.bloodwood.binding in NEI
+INFO: Hiding item.bloodwood.bolt in NEI
+INFO: Hiding item.bloodwood.bow.limb in NEI
+INFO: Hiding item.bloodwood.chisel.head in NEI
+INFO: Hiding item.bloodwood.chunk in NEI
+INFO: Hiding item.bloodwood.crossbar in NEI
+INFO: Hiding item.bloodwood.crossbow.body in NEI
+INFO: Hiding item.bloodwood.crossbow.limb in NEI
+INFO: Hiding item.bloodwood.excavator.head in NEI
+INFO: Hiding item.bloodwood.frypan.head in NEI
+INFO: Hiding item.bloodwood.full.guard in NEI
+INFO: Hiding item.bloodwood.hammer.head in NEI
+INFO: Hiding item.bloodwood.knife.blade in NEI
+INFO: Hiding item.bloodwood.large.guard in NEI
+INFO: Hiding item.bloodwood.largeplate in NEI
+INFO: Hiding item.bloodwood.large.sword.blade in NEI
+INFO: Hiding item.bloodwood.lumberaxe.head in NEI
+INFO: Hiding item.bloodwood.medium.guard in NEI
+INFO: Hiding item.bloodwood.pickaxe.head in NEI
+INFO: Hiding item.bloodwood.scythe.head in NEI
+INFO: Hiding item.bloodwood.shovel.head in NEI
+INFO: Hiding item.bloodwood.shuriken in NEI
+INFO: Hiding item.bloodwood.sword.blade in NEI
+INFO: Hiding item.bloodwood.toolrod in NEI
+INFO: Hiding item.bloodwood.toughbind in NEI
+INFO: Hiding item.bloodwood.toughrod in NEI
+INFO: Hiding item.darkwood.arrowhead in NEI
+INFO: Hiding item.darkwood.axe.head in NEI
+INFO: Hiding item.darkwood.battle.sign in NEI
+INFO: Hiding item.darkwood.binding in NEI
+INFO: Hiding item.darkwood.bolt in NEI
+INFO: Hiding item.darkwood.bow.limb in NEI
+INFO: Hiding item.darkwood.chisel.head in NEI
+INFO: Hiding item.darkwood.chunk in NEI
+INFO: Hiding item.darkwood.crossbar in NEI
+INFO: Hiding item.darkwood.crossbow.body in NEI
+INFO: Hiding item.darkwood.crossbow.limb in NEI
+INFO: Hiding item.darkwood.excavator.head in NEI
+INFO: Hiding item.darkwood.frypan.head in NEI
+INFO: Hiding item.darkwood.full.guard in NEI
+INFO: Hiding item.darkwood.hammer.head in NEI
+INFO: Hiding item.darkwood.knife.blade in NEI
+INFO: Hiding item.darkwood.large.guard in NEI
+INFO: Hiding item.darkwood.largeplate in NEI
+INFO: Hiding item.darkwood.large.sword.blade in NEI
+INFO: Hiding item.darkwood.lumberaxe.head in NEI
+INFO: Hiding item.darkwood.medium.guard in NEI
+INFO: Hiding item.darkwood.pickaxe.head in NEI
+INFO: Hiding item.darkwood.scythe.head in NEI
+INFO: Hiding item.darkwood.shovel.head in NEI
+INFO: Hiding item.darkwood.shuriken in NEI
+INFO: Hiding item.darkwood.sword.blade in NEI
+INFO: Hiding item.darkwood.toolrod in NEI
+INFO: Hiding item.darkwood.toughbind in NEI
+INFO: Hiding item.darkwood.toughrod in NEI
+INFO: Hiding item.fusewood.arrowhead in NEI
+INFO: Hiding item.fusewood.axe.head in NEI
+INFO: Hiding item.fusewood.battle.sign in NEI
+INFO: Hiding item.fusewood.binding in NEI
+INFO: Hiding item.fusewood.bolt in NEI
+INFO: Hiding item.fusewood.bow.limb in NEI
+INFO: Hiding item.fusewood.chisel.head in NEI
+INFO: Hiding item.fusewood.chunk in NEI
+INFO: Hiding item.fusewood.crossbar in NEI
+INFO: Hiding item.fusewood.crossbow.body in NEI
+INFO: Hiding item.fusewood.crossbow.limb in NEI
+INFO: Hiding item.fusewood.excavator.head in NEI
+INFO: Hiding item.fusewood.frypan.head in NEI
+INFO: Hiding item.fusewood.full.guard in NEI
+INFO: Hiding item.fusewood.hammer.head in NEI
+INFO: Hiding item.fusewood.knife.blade in NEI
+INFO: Hiding item.fusewood.large.guard in NEI
+INFO: Hiding item.fusewood.largeplate in NEI
+INFO: Hiding item.fusewood.large.sword.blade in NEI
+INFO: Hiding item.fusewood.lumberaxe.head in NEI
+INFO: Hiding item.fusewood.medium.guard in NEI
+INFO: Hiding item.fusewood.pickaxe.head in NEI
+INFO: Hiding item.fusewood.scythe.head in NEI
+INFO: Hiding item.fusewood.shovel.head in NEI
+INFO: Hiding item.fusewood.shuriken in NEI
+INFO: Hiding item.fusewood.sword.blade in NEI
+INFO: Hiding item.fusewood.toolrod in NEI
+INFO: Hiding item.fusewood.toughbind in NEI
+INFO: Hiding item.fusewood.toughrod in NEI
+INFO: Hiding item.ghostwood.arrowhead in NEI
+INFO: Hiding item.ghostwood.axe.head in NEI
+INFO: Hiding item.ghostwood.battle.sign in NEI
+INFO: Hiding item.ghostwood.binding in NEI
+INFO: Hiding item.ghostwood.bolt in NEI
+INFO: Hiding item.ghostwood.bow.limb in NEI
+INFO: Hiding item.ghostwood.chisel.head in NEI
+INFO: Hiding item.ghostwood.chunk in NEI
+INFO: Hiding item.ghostwood.crossbar in NEI
+INFO: Hiding item.ghostwood.crossbow.body in NEI
+INFO: Hiding item.ghostwood.crossbow.limb in NEI
+INFO: Hiding item.ghostwood.excavator.head in NEI
+INFO: Hiding item.ghostwood.frypan.head in NEI
+INFO: Hiding item.ghostwood.full.guard in NEI
+INFO: Hiding item.ghostwood.hammer.head in NEI
+INFO: Hiding item.ghostwood.knife.blade in NEI
+INFO: Hiding item.ghostwood.large.guard in NEI
+INFO: Hiding item.ghostwood.largeplate in NEI
+INFO: Hiding item.ghostwood.large.sword.blade in NEI
+INFO: Hiding item.ghostwood.lumberaxe.head in NEI
+INFO: Hiding item.ghostwood.medium.guard in NEI
+INFO: Hiding item.ghostwood.pickaxe.head in NEI
+INFO: Hiding item.ghostwood.scythe.head in NEI
+INFO: Hiding item.ghostwood.shovel.head in NEI
+INFO: Hiding item.ghostwood.shuriken in NEI
+INFO: Hiding item.ghostwood.sword.blade in NEI
+INFO: Hiding item.ghostwood.toolrod in NEI
+INFO: Hiding item.ghostwood.toughbind in NEI
+INFO: Hiding item.ghostwood.toughrod in NEI
+INFO: Hiding item.elementium.arrowhead in NEI
+INFO: Hiding item.elementium.axe.head in NEI
+INFO: Hiding item.elementium.battle.sign in NEI
+INFO: Hiding item.elementium.binding in NEI
+INFO: Hiding item.elementium.bolt in NEI
+INFO: Hiding item.elementium.bow.limb in NEI
+INFO: Hiding item.elementium.chisel.head in NEI
+INFO: Hiding item.elementium.chunk in NEI
+INFO: Hiding item.elementium.crossbar in NEI
+INFO: Hiding item.elementium.crossbow.body in NEI
+INFO: Hiding item.elementium.crossbow.limb in NEI
+INFO: Hiding item.elementium.excavator.head in NEI
+INFO: Hiding item.elementium.frypan.head in NEI
+INFO: Hiding item.elementium.full.guard in NEI
+INFO: Hiding item.elementium.hammer.head in NEI
+INFO: Hiding item.elementium.knife.blade in NEI
+INFO: Hiding item.elementium.large.guard in NEI
+INFO: Hiding item.elementium.largeplate in NEI
+INFO: Hiding item.elementium.large.sword.blade in NEI
+INFO: Hiding item.elementium.lumberaxe.head in NEI
+INFO: Hiding item.elementium.medium.guard in NEI
+INFO: Hiding item.elementium.pickaxe.head in NEI
+INFO: Hiding item.elementium.scythe.head in NEI
+INFO: Hiding item.elementium.shovel.head in NEI
+INFO: Hiding item.elementium.shuriken in NEI
+INFO: Hiding item.elementium.sword.blade in NEI
+INFO: Hiding item.elementium.toolrod in NEI
+INFO: Hiding item.elementium.toughbind in NEI
+INFO: Hiding item.elementium.toughrod in NEI
+INFO: Hiding item.amethyst.arrowhead in NEI
+INFO: Hiding item.amethyst.axe.head in NEI
+INFO: Hiding item.amethyst.battle.sign in NEI
+INFO: Hiding item.amethyst.binding in NEI
+INFO: Hiding item.amethyst.bolt in NEI
+INFO: Hiding item.amethyst.bow.limb in NEI
+INFO: Hiding item.amethyst.chisel.head in NEI
+INFO: Hiding item.amethyst.chunk in NEI
+INFO: Hiding item.amethyst.crossbar in NEI
+INFO: Hiding item.amethyst.crossbow.body in NEI
+INFO: Hiding item.amethyst.crossbow.limb in NEI
+INFO: Hiding item.amethyst.excavator.head in NEI
+INFO: Hiding item.amethyst.frypan.head in NEI
+INFO: Hiding item.amethyst.full.guard in NEI
+INFO: Hiding item.amethyst.hammer.head in NEI
+INFO: Hiding item.amethyst.knife.blade in NEI
+INFO: Hiding item.amethyst.large.guard in NEI
+INFO: Hiding item.amethyst.largeplate in NEI
+INFO: Hiding item.amethyst.large.sword.blade in NEI
+INFO: Hiding item.amethyst.lumberaxe.head in NEI
+INFO: Hiding item.amethyst.medium.guard in NEI
+INFO: Hiding item.amethyst.pickaxe.head in NEI
+INFO: Hiding item.amethyst.scythe.head in NEI
+INFO: Hiding item.amethyst.shovel.head in NEI
+INFO: Hiding item.amethyst.shuriken in NEI
+INFO: Hiding item.amethyst.sword.blade in NEI
+INFO: Hiding item.amethyst.toolrod in NEI
+INFO: Hiding item.amethyst.toughbind in NEI
+INFO: Hiding item.amethyst.toughrod in NEI
+INFO: Hiding item.peridot.arrowhead in NEI
+INFO: Hiding item.peridot.axe.head in NEI
+INFO: Hiding item.peridot.battle.sign in NEI
+INFO: Hiding item.peridot.binding in NEI
+INFO: Hiding item.peridot.bolt in NEI
+INFO: Hiding item.peridot.bow.limb in NEI
+INFO: Hiding item.peridot.chisel.head in NEI
+INFO: Hiding item.peridot.chunk in NEI
+INFO: Hiding item.peridot.crossbar in NEI
+INFO: Hiding item.peridot.crossbow.body in NEI
+INFO: Hiding item.peridot.crossbow.limb in NEI
+INFO: Hiding item.peridot.excavator.head in NEI
+INFO: Hiding item.peridot.frypan.head in NEI
+INFO: Hiding item.peridot.full.guard in NEI
+INFO: Hiding item.peridot.hammer.head in NEI
+INFO: Hiding item.peridot.knife.blade in NEI
+INFO: Hiding item.peridot.large.guard in NEI
+INFO: Hiding item.peridot.largeplate in NEI
+INFO: Hiding item.peridot.large.sword.blade in NEI
+INFO: Hiding item.peridot.lumberaxe.head in NEI
+INFO: Hiding item.peridot.medium.guard in NEI
+INFO: Hiding item.peridot.pickaxe.head in NEI
+INFO: Hiding item.peridot.scythe.head in NEI
+INFO: Hiding item.peridot.shovel.head in NEI
+INFO: Hiding item.peridot.shuriken in NEI
+INFO: Hiding item.peridot.sword.blade in NEI
+INFO: Hiding item.peridot.toolrod in NEI
+INFO: Hiding item.peridot.toughbind in NEI
+INFO: Hiding item.peridot.toughrod in NEI
+INFO: Hiding item.ruby.arrowhead in NEI
+INFO: Hiding item.ruby.axe.head in NEI
+INFO: Hiding item.ruby.battle.sign in NEI
+INFO: Hiding item.ruby.binding in NEI
+INFO: Hiding item.ruby.bolt in NEI
+INFO: Hiding item.ruby.bow.limb in NEI
+INFO: Hiding item.ruby.chisel.head in NEI
+INFO: Hiding item.ruby.chunk in NEI
+INFO: Hiding item.ruby.crossbar in NEI
+INFO: Hiding item.ruby.crossbow.body in NEI
+INFO: Hiding item.ruby.crossbow.limb in NEI
+INFO: Hiding item.ruby.excavator.head in NEI
+INFO: Hiding item.ruby.frypan.head in NEI
+INFO: Hiding item.ruby.full.guard in NEI
+INFO: Hiding item.ruby.hammer.head in NEI
+INFO: Hiding item.ruby.knife.blade in NEI
+INFO: Hiding item.ruby.large.guard in NEI
+INFO: Hiding item.ruby.largeplate in NEI
+INFO: Hiding item.ruby.large.sword.blade in NEI
+INFO: Hiding item.ruby.lumberaxe.head in NEI
+INFO: Hiding item.ruby.medium.guard in NEI
+INFO: Hiding item.ruby.pickaxe.head in NEI
+INFO: Hiding item.ruby.scythe.head in NEI
+INFO: Hiding item.ruby.shovel.head in NEI
+INFO: Hiding item.ruby.shuriken in NEI
+INFO: Hiding item.ruby.sword.blade in NEI
+INFO: Hiding item.ruby.toolrod in NEI
+INFO: Hiding item.ruby.toughbind in NEI
+INFO: Hiding item.ruby.toughrod in NEI
+INFO: Hiding item.sapphire.arrowhead in NEI
+INFO: Hiding item.sapphire.axe.head in NEI
+INFO: Hiding item.sapphire.battle.sign in NEI
+INFO: Hiding item.sapphire.binding in NEI
+INFO: Hiding item.sapphire.bolt in NEI
+INFO: Hiding item.sapphire.bow.limb in NEI
+INFO: Hiding item.sapphire.chisel.head in NEI
+INFO: Hiding item.sapphire.chunk in NEI
+INFO: Hiding item.sapphire.crossbar in NEI
+INFO: Hiding item.sapphire.crossbow.body in NEI
+INFO: Hiding item.sapphire.crossbow.limb in NEI
+INFO: Hiding item.sapphire.excavator.head in NEI
+INFO: Hiding item.sapphire.frypan.head in NEI
+INFO: Hiding item.sapphire.full.guard in NEI
+INFO: Hiding item.sapphire.hammer.head in NEI
+INFO: Hiding item.sapphire.knife.blade in NEI
+INFO: Hiding item.sapphire.large.guard in NEI
+INFO: Hiding item.sapphire.largeplate in NEI
+INFO: Hiding item.sapphire.large.sword.blade in NEI
+INFO: Hiding item.sapphire.lumberaxe.head in NEI
+INFO: Hiding item.sapphire.medium.guard in NEI
+INFO: Hiding item.sapphire.pickaxe.head in NEI
+INFO: Hiding item.sapphire.scythe.head in NEI
+INFO: Hiding item.sapphire.shovel.head in NEI
+INFO: Hiding item.sapphire.shuriken in NEI
+INFO: Hiding item.sapphire.sword.blade in NEI
+INFO: Hiding item.sapphire.toolrod in NEI
+INFO: Hiding item.sapphire.toughbind in NEI
+INFO: Hiding item.sapphire.toughrod in NEI
+INFO: Hiding item.dark.steel.arrowhead in NEI
+INFO: Hiding item.dark.steel.axe.head in NEI
+INFO: Hiding item.dark.steel.battle.sign in NEI
+INFO: Hiding item.dark.steel.binding in NEI
+INFO: Hiding item.dark.steel.bolt in NEI
+INFO: Hiding item.dark.steel.bow.limb in NEI
+INFO: Hiding item.dark.steel.chisel.head in NEI
+INFO: Hiding item.dark.steel.chunk in NEI
+INFO: Hiding item.dark.steel.crossbar in NEI
+INFO: Hiding item.dark.steel.crossbow.body in NEI
+INFO: Hiding item.dark.steel.crossbow.limb in NEI
+INFO: Hiding item.dark.steel.excavator.head in NEI
+INFO: Hiding item.dark.steel.frypan.head in NEI
+INFO: Hiding item.dark.steel.full.guard in NEI
+INFO: Hiding item.dark.steel.hammer.head in NEI
+INFO: Hiding item.dark.steel.knife.blade in NEI
+INFO: Hiding item.dark.steel.large.guard in NEI
+INFO: Hiding item.dark.steel.largeplate in NEI
+INFO: Hiding item.dark.steel.large.sword.blade in NEI
+INFO: Hiding item.dark.steel.lumberaxe.head in NEI
+INFO: Hiding item.dark.steel.medium.guard in NEI
+INFO: Hiding item.dark.steel.pickaxe.head in NEI
+INFO: Hiding item.dark.steel.scythe.head in NEI
+INFO: Hiding item.dark.steel.shovel.head in NEI
+INFO: Hiding item.dark.steel.shuriken in NEI
+INFO: Hiding item.dark.steel.sword.blade in NEI
+INFO: Hiding item.dark.steel.toolrod in NEI
+INFO: Hiding item.dark.steel.toughbind in NEI
+INFO: Hiding item.dark.steel.toughrod in NEI
+INFO: Hiding tile.extrautils:drum.0 in NEI
+INFO: Hiding item.extrautils:microblocks.0 in NEI
+INFO: Hiding item.extrautils:nodeUpgrade.4 in NEI
+INFO: Hiding tile.sign in NEI
+INFO: Hiding tile.TaintLeaves in NEI
+INFO: Hiding tile.ArcaneCake in NEI
+INFO: Hiding item.TaintFruit in NEI
+INFO: Hiding item.FMResource.2 in NEI
+INFO: Hiding item.FMResource.3 in NEI
+INFO: Hiding item.FMResource.4 in NEI
+INFO: Hiding item.WandCaps.vinteum in NEI
+INFO: Hiding item.WandCores.witchwood_staff in NEI
+INFO: Hiding item.WandCores.witchwood in NEI
+INFO: Hiding tile.InkFlower in NEI
+INFO: Hiding tile.forestry.fluid.bioethanol in NEI
+INFO: Hiding tile.forestry.fluid.biomass in NEI
+INFO: Hiding tile.forestry.fluid.glass in NEI
+INFO: Hiding tile.forestry.fluid.for.honey in NEI
+INFO: Hiding tile.forestry.fluid.ice in NEI
+INFO: Hiding tile.forestry.fluid.juice in NEI
+INFO: Hiding tile.forestry.fluid.seedoil in NEI
+INFO: Hiding tile.forestry.fluid.short.mead in NEI
+INFO: Hiding tile.for.stump.0 in NEI
+INFO: Hiding tile.for.saplingGE.0 in NEI
+INFO: Hiding tile.for.leaves.0 in NEI
+INFO: Hiding tile.for.pods.0 in NEI
+INFO: Hiding tile.for.mushroom.1 in NEI
+INFO: Hiding tile.for.slabsDoubleFireproof.32767 in NEI
+INFO: Hiding tile.for.slabsDouble.32767 in NEI
+INFO: Hiding item.for.grafterProven in NEI
+INFO: Hiding item.microblock in NEI
+INFO: Hiding tile.gendustry.mutagen in NEI
+INFO: Hiding tile.gendustry.liquiddna in NEI
+INFO: Hiding tile.gendustry.protein in NEI
+INFO: Hiding item.gendustry.HiveSpawnDebugger in NEI
+INFO: Hiding item.chocolaterollItem in NEI
+INFO: Hiding tile.pamcurryleafCrop in NEI
+INFO: Hiding tile.pamsesameseedsCrop in NEI
+INFO: Hiding tile.pamwaterchestnutCrop in NEI
+INFO: Hiding tile.ovenon in NEI
+INFO: Hiding tile.cuttingboard in NEI
+INFO: Hiding tile.pot in NEI
+INFO: Hiding tile.quernon in NEI
+INFO: Hiding tile.pampumpkincheeseCake in NEI
+INFO: Hiding tile.pambarleyCrop in NEI
+INFO: Hiding tile.pamholidayCake in NEI
+INFO: Hiding tile.pampavlovaCake in NEI
+INFO: Hiding tile.pamlamingtonCake in NEI
+INFO: Hiding tile.pamredvelvetCake in NEI
+INFO: Hiding tile.pamchocolatesprinkleCake in NEI
+INFO: Hiding tile.pampineappleupsidedownCake in NEI
+INFO: Hiding tile.pamcherrycheeseCake in NEI
+INFO: Hiding tile.pamcheeseCake in NEI
+INFO: Hiding tile.pamcarrotCake in NEI
+INFO: Hiding tile.pamseaweedCrop in NEI
+INFO: Hiding tile.pamriceCrop in NEI
+INFO: Hiding tile.pamcranberryCrop in NEI
+INFO: Hiding tile.pamkiwiCrop in NEI
+INFO: Hiding tile.pamgrapeCrop in NEI
+INFO: Hiding tile.pampineappleCrop in NEI
+INFO: Hiding tile.pamcottonCrop in NEI
+INFO: Hiding tile.pamwhitemushroomCrop in NEI
+INFO: Hiding tile.pambeanCrop in NEI
+INFO: Hiding tile.pamsoybeanCrop in NEI
+INFO: Hiding tile.pambellpepperCrop in NEI
+INFO: Hiding tile.pamchilipepperCrop in NEI
+INFO: Hiding tile.pameggplantCrop in NEI
+INFO: Hiding tile.pamokraCrop in NEI
+INFO: Hiding tile.pampeasCrop in NEI
+INFO: Hiding tile.pamtomatoCrop in NEI
+INFO: Hiding tile.pamspinachCrop in NEI
+INFO: Hiding tile.pamcabbageCrop in NEI
+INFO: Hiding tile.pambrusselsproutCrop in NEI
+INFO: Hiding tile.pamartichokeCrop in NEI
+INFO: Hiding tile.pamscallionCrop in NEI
+INFO: Hiding tile.pamlettuceCrop in NEI
+INFO: Hiding tile.pamleekCrop in NEI
+INFO: Hiding tile.pamcauliflowerCrop in NEI
+INFO: Hiding tile.pambroccoliCrop in NEI
+INFO: Hiding tile.pamturnipCrop in NEI
+INFO: Hiding tile.pamrhubarbCrop in NEI
+INFO: Hiding tile.pamceleryCrop in NEI
+INFO: Hiding tile.pamgarlicCrop in NEI
+INFO: Hiding tile.pamgingerCrop in NEI
+INFO: Hiding tile.pamspiceleafCrop in NEI
+INFO: Hiding tile.pamtealeafCrop in NEI
+INFO: Hiding tile.pamcoffeebeanCrop in NEI
+INFO: Hiding tile.pammustardseedsCrop in NEI
+INFO: Hiding tile.pamsweetpotatoCrop in NEI
+INFO: Hiding tile.pamrutabagaCrop in NEI
+INFO: Hiding tile.pamradishCrop in NEI
+INFO: Hiding tile.pampeanutCrop in NEI
+INFO: Hiding tile.pamparsnipCrop in NEI
+INFO: Hiding tile.pamonionCrop in NEI
+INFO: Hiding tile.pambeetCrop in NEI
+INFO: Hiding tile.pamzucchiniCrop in NEI
+INFO: Hiding tile.pamwintersquashCrop in NEI
+INFO: Hiding tile.pamstrawberryCrop in NEI
+INFO: Hiding tile.pamcactusfruitCrop in NEI
+INFO: Hiding tile.pamasparagusCrop in NEI
+INFO: Hiding tile.pamoatsCrop in NEI
+INFO: Hiding tile.pamryeCrop in NEI
+INFO: Hiding tile.pamcornCrop in NEI
+INFO: Hiding tile.pambambooshootCrop in NEI
+INFO: Hiding tile.pamcantaloupeCrop in NEI
+INFO: Hiding tile.pamcucumberCrop in NEI
+INFO: Hiding tile.pamraspberryCrop in NEI
+INFO: Hiding tile.pamcandleberryCrop in NEI
+INFO: Hiding tile.pamblueberryCrop in NEI
+INFO: Hiding tile.pamblackberryCrop in NEI
+INFO: Hiding tile.pamWalnut in NEI
+INFO: Hiding tile.pamVanillabean in NEI
+INFO: Hiding tile.pamPersimmon in NEI
+INFO: Hiding tile.pamPistachio in NEI
+INFO: Hiding tile.pamPlum in NEI
+INFO: Hiding tile.pamPomegranate in NEI
+INFO: Hiding tile.pamStarfruit in NEI
+INFO: Hiding tile.pamPeppercorn in NEI
+INFO: Hiding tile.pamPecan in NEI
+INFO: Hiding tile.pamPear in NEI
+INFO: Hiding tile.pamPeach in NEI
+INFO: Hiding tile.pamNutmeg in NEI
+INFO: Hiding tile.pamOlive in NEI
+INFO: Hiding tile.pamOrange in NEI
+INFO: Hiding tile.pamPapaya in NEI
+INFO: Hiding tile.pamMango in NEI
+INFO: Hiding tile.pamLime in NEI
+INFO: Hiding tile.pamLemon in NEI
+INFO: Hiding tile.pamDate in NEI
+INFO: Hiding tile.pamDragonfruit in NEI
+INFO: Hiding tile.pamDurian in NEI
+INFO: Hiding tile.pamFig in NEI
+INFO: Hiding tile.pamGrapefruit in NEI
+INFO: Hiding tile.pamCoconut in NEI
+INFO: Hiding tile.pamChestnut in NEI
+INFO: Hiding tile.pamCherry in NEI
+INFO: Hiding tile.pamAlmond in NEI
+INFO: Hiding tile.pamApricot in NEI
+INFO: Hiding tile.pamAvocado in NEI
+INFO: Hiding tile.pamBanana in NEI
+INFO: Hiding tile.pamCashew in NEI
+INFO: Hiding tile.pamApple in NEI
+INFO: Hiding tile.pamPaperbark in NEI
+INFO: Hiding tile.pamMaple in NEI
+INFO: Hiding tile.pamCinnamon in NEI
+INFO: Hiding tile.watergarden in NEI
+INFO: Hiding tile.tropicalgarden in NEI
+INFO: Hiding tile.textilegarden in NEI
+INFO: Hiding tile.stalkgarden in NEI
+INFO: Hiding tile.mushroomgarden in NEI
+INFO: Hiding tile.leafygarden in NEI
+INFO: Hiding tile.herbgarden in NEI
+INFO: Hiding tile.groundgarden in NEI
+INFO: Hiding tile.gourdgarden in NEI
+INFO: Hiding tile.grassgarden in NEI
+INFO: Hiding tile.desertgarden in NEI
+INFO: Hiding tile.berrygarden in NEI
+INFO: Hiding item.headcrumbs.egg in NEI
+INFO: Hiding item.upgrade.core.creative in NEI
+INFO: Hiding item.hammer.creative in NEI
+INFO: Hiding tile.molten.witheriron in NEI
+INFO: Hiding Mantle:item.mantle.manual.test in NEI
+INFO: Hiding tile.water in NEI
+INFO: Hiding tile.water in NEI
+INFO: Hiding tile.lava in NEI
+INFO: Hiding tile.lava in NEI
+INFO: Hiding tile.fire in NEI
+INFO: Hiding tile.mobSpawner in NEI
+INFO: Hiding tile.monsterStoneEgg.stone in NEI
+INFO: Hiding tile.null in NEI
+INFO: Hiding tile.endPortalFrame in NEI
+INFO: Hiding tile.commandBlock in NEI
+INFO: Hiding item.minecartCommandBlock in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding item.monsterPlacer in NEI
+INFO: Hiding tile.mfr.rubberwood.sapling.sacred in NEI
+INFO: Hiding tile.mfr.rubberwood.sapling.mega in NEI
+INFO: Hiding tile.mfr.rubberwood.sapling.massive in NEI
+INFO: Hiding fluid.mfr.milk.still in NEI
+INFO: Hiding fluid.mfr.sludge.still in NEI
+INFO: Hiding fluid.mfr.sewage.still in NEI
+INFO: Hiding fluid.mfr.meat.still in NEI
+INFO: Hiding fluid.mfr.pinkslime.still in NEI
+INFO: Hiding fluid.mfr.chocolatemilk.still in NEI
+INFO: Hiding fluid.mfr.mushroomsoup.still in NEI
+INFO: Hiding fluid.mfr.steam.still in NEI
+INFO: Hiding fluid.mfr.biofuel.still in NEI
+INFO: Hiding fluid.mfr.mobessence.still in NEI
+INFO: Hiding tile.mfr.rubberwood.log in NEI
+INFO: Hiding item.mfr.rednet.meter in NEI
+INFO: Hiding tile.fenceGate.maple in NEI
+INFO: Hiding tile.button.ghostwood in NEI
+INFO: Hiding tile.button.amaranth in NEI
+INFO: Hiding tile.stair.tiger in NEI
+INFO: Hiding tile.trapdoor.ghostwood in NEI
+INFO: Hiding tile.pressureplate.tiger in NEI
+INFO: Hiding tile.fenceGate.fusewood in NEI
+INFO: Hiding tile.fenceGate.bloodwood in NEI
+INFO: Hiding tile.button.redwood in NEI
+INFO: Hiding tile.button.maple in NEI
+INFO: Hiding tile.trapdoor.amaranth in NEI
+INFO: Hiding tile.stair.hopseed in NEI
+INFO: Hiding tile.pressureplate.amaranth in NEI
+INFO: Hiding tile.fenceGate.willow in NEI
+INFO: Hiding tile.pressureplate.hopseed in NEI
+INFO: Hiding tile.door.redwoodbark in NEI
+INFO: Hiding tile.fenceGate.sakura in NEI
+INFO: Hiding tile.trapdoor.silverbell in NEI
+INFO: Hiding tile.stair.bloodwood in NEI
+INFO: Hiding tile.fenceGate.ghostwood in NEI
+INFO: Hiding tile.fenceGate.amaranth in NEI
+INFO: Hiding tile.pressureplate.maple in NEI
+INFO: Hiding tile.button.silverbell in NEI
+INFO: Hiding tile.trapdoor.darkwood in NEI
+INFO: Hiding tile.pressureplate.fusewood in NEI
+INFO: Hiding tile.pressureplate.redwood in NEI
+INFO: Hiding tile.stair.fusewood in NEI
+INFO: Hiding tile.stair.silverbell in NEI
+INFO: Hiding tile.stair.darkwood in NEI
+INFO: Hiding tile.pressureplate.ghostwood in NEI
+INFO: Hiding tile.pressureplate.darkwood in NEI
+INFO: Hiding tile.button.sakura in NEI
+INFO: Hiding tile.button.willow in NEI
+INFO: Hiding tile.pressureplate.bloodwood in NEI
+INFO: Hiding tile.door.eucalyptus in NEI
+INFO: Hiding tile.trapdoor.willow in NEI
+INFO: Hiding tile.trapdoor.fusewood in NEI
+INFO: Hiding tile.natura.crops in NEI
+INFO: Hiding tile.stair.ghostwood in NEI
+INFO: Hiding tile.fenceGate.darkwood in NEI
+INFO: Hiding tile.trapdoor.tiger in NEI
+INFO: Hiding tile.stair.redwood in NEI
+INFO: Hiding tile.button.hopseed in NEI
+INFO: Hiding tile.fenceGate.silverbell in NEI
+INFO: Hiding tile.button.fusewood in NEI
+INFO: Hiding tile.door.sakura in NEI
+INFO: Hiding tile.trapdoor.bloodwood in NEI
+INFO: Hiding tile.door.ghostwood in NEI
+INFO: Hiding tile.button.bloodwood in NEI
+INFO: Hiding tile.stair.willow in NEI
+INFO: Hiding tile.fenceGate.hopseed in NEI
+INFO: Hiding tile.fenceGate.tiger in NEI
+INFO: Hiding tile.door.hopseed in NEI
+INFO: Hiding tile.pressureplate.sakura in NEI
+INFO: Hiding tile.trapdoor.sakura in NEI
+INFO: Hiding tile.pressureplate.silverbell in NEI
+INFO: Hiding tile.trapdoor.redwood in NEI
+INFO: Hiding tile.trapdoor.maple in NEI
+INFO: Hiding tile.fenceGate.redwood in NEI
+INFO: Hiding tile.stair.maple in NEI
+INFO: Hiding tile.door.redwood in NEI
+INFO: Hiding tile.door.bloodwood in NEI
+INFO: Hiding tile.button.tiger in NEI
+INFO: Hiding tile.button.darkwood in NEI
+INFO: Hiding tile.trapdoor.hopseed in NEI
+INFO: Hiding item.natura.spawnegg in NEI
+INFO: Hiding item.flintandblaze in NEI
+INFO: Hiding item.bowl in NEI
+INFO: Hiding tile.pressureplate.willow in NEI
+INFO: Hiding item.CreativeRFEngine in NEI
+INFO: Hiding item.recallStoneBlank in NEI
+INFO: Hiding item.dimensionStoneBlank in NEI
+INFO: Hiding tile.rfwindmill_rotor.rotorIron in NEI
+INFO: Hiding RouterReborn:item.router.manual.manual in NEI
+INFO: Hiding tile.Sanguimancy.illusion.diamond.ore in NEI
+INFO: Hiding tile.Sanguimancy.itemSNPart in NEI
+INFO: Hiding tile.Sanguimancy.ritualRepresentation in NEI
+INFO: Hiding item.Sanguimancy.soulCorruption.nothing in NEI
+INFO: Hiding item.simplyjetpacks.mysteriousPotato in NEI
+INFO: Hiding item.simplyjetpacks.jetpack.9001 in NEI
+INFO: Hiding item.simplyjetpacks.fluxpack.9001 in NEI
+INFO: Hiding item.storagedrawers.upgradeCreative.vend in NEI
+INFO: Hiding item.tconstruct.modifier.creative in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool.Dagger in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool in NEI
+INFO: Hiding item.InfiTool.Battleaxe in NEI
+INFO: Hiding item.InfiTool.Hammer in NEI
+INFO: Hiding item.InfiTool.Excavator in NEI
+INFO: Hiding item.InfiTool.Scythe in NEI
+INFO: Hiding item.InfiTool.Cleaver in NEI
+INFO: Hiding item.InfiTool.LumberAxe in NEI
+INFO: Hiding item.InfiTool.Chisel in NEI
+INFO: Hiding item.InfiTool.Mattock in NEI
+INFO: Hiding item.InfiTool.Battlesign in NEI
+INFO: Hiding item.InfiTool.FryPan in NEI
+INFO: Hiding item.InfiTool.Cutlass in NEI
+INFO: Hiding item.InfiTool.Rapier in NEI
+INFO: Hiding item.InfiTool.Longsword in NEI
+INFO: Hiding item.InfiTool.Broadsword in NEI
+INFO: Hiding item.InfiTool.Axe in NEI
+INFO: Hiding item.InfiTool.Shovel in NEI
+INFO: Hiding item.InfiTool.Pickaxe in NEI
+INFO: Hiding item.tconstruct.Materials.RawAluminum in NEI
+INFO: Hiding Smeltery.Brick.Cracked in NEI
+INFO: Hiding block.slime.soil.blue in NEI
+INFO: Hiding tile.liquid.slime in NEI
+INFO: Hiding block.slime.congealed.purple in NEI
+INFO: Hiding block.slime.grass.blue in NEI
+INFO: Hiding block.ore.gravel.cobalt in NEI
+INFO: Hiding item.InfiTool.Broadsword in NEI
+INFO: Hiding Smeltery.Stone in NEI
+INFO: Hiding Smeltery.Cobblestone in NEI
+INFO: Hiding Smeltery.Paver in NEI
+INFO: Hiding Smeltery.Brick.Cracked in NEI
+INFO: Hiding Smeltery.Road in NEI
+INFO: Hiding Smeltery.Brick.Fancy in NEI
+INFO: Hiding Smeltery.Brick.Square in NEI
+INFO: Hiding Smeltery.Brick.Square in NEI
+INFO: Hiding tile.blockAiry.0 in NEI
+INFO: Hiding tile.blockFluidDeath in NEI
+INFO: Hiding tile.blockFluxGoo in NEI
+INFO: Hiding tile.blockLootUrn in NEI
+INFO: Hiding tile.blockCosmeticSolid.0 in NEI
+INFO: Hiding tile.blockArcaneFurnace in NEI
+INFO: Hiding tile.blockWarded in NEI
+INFO: Hiding tile.blockFluxGas in NEI
+INFO: Hiding tile.blockAlchemyFurnace in NEI
+INFO: Hiding tile.blockPortalEldritch in NEI
+INFO: Hiding tile.blockHole in NEI
+INFO: Hiding tile.blockFluidPure in NEI
+INFO: Hiding tile.blockCosmeticDoubleSlabWood in NEI
+INFO: Hiding tile.blockMagicBox in NEI
+INFO: Hiding tile.blockTaintFibres.32767 in NEI
+INFO: Hiding item.ItemResearchNotes in NEI
+INFO: Hiding item.ItemSpawnerEgg in NEI
+INFO: Hiding item.WandCasting in NEI
+INFO: Hiding item.WandCasting in NEI
+INFO: Hiding item.ItemEldritchObject.4 in NEI
+INFO: Hiding thaumicenergistics.item.essentia.cell.creative in NEI
+INFO: Hiding tile.ThaumicHorizons_light in NEI
+INFO: Hiding tile.ThaumicHorizons_vatSolid in NEI
+INFO: Hiding tile.ThaumicHorizons_vat in NEI
+INFO: Hiding tile.ThaumicHorizons_light in NEI
+INFO: Hiding tile.ThaumicHorizons_evanescent in NEI
+INFO: Hiding tile.ThaumicHorizons_vatInterior in NEI
+INFO: Hiding tile.ThaumicHorizons_cloud.32767 in NEI
+INFO: Hiding tile.ThaumicHorizons_slot in NEI
+INFO: Hiding tile.ThaumicHorizons_gateway in NEI
+INFO: Hiding tile.ThaumicHorizons_cloud.32767 in NEI
+INFO: Hiding tile.ThaumicHorizons_flesh in NEI
+INFO: Hiding tile.ThaumicHorizons_spikeTooth in NEI
+INFO: Hiding tile.ThaumicHorizons_spikeWood in NEI
+INFO: Hiding tile.ThaumicHorizons_deepcrystal in NEI
+INFO: Hiding tile.ThaumicHorizons_spike in NEI
+INFO: Hiding tile.ThaumicHorizons_void in NEI
+INFO: Hiding tile.ThaumicHorizons_eye in NEI
+INFO: Hiding tile.ThaumicHorizons_vortex.32767 in NEI
+INFO: Hiding tile.ThaumicHorizons_crystal.32767 in NEI
+INFO: Hiding tile.ThaumicHorizons_brain in NEI
+INFO: Hiding tile.null in NEI
+INFO: Hiding tile.ThaumicHorizons_dust in NEI
+INFO: Hiding item.syringeEmpty in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.goldEgg in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.inkEgg in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.syringeBlood.0 in NEI
+INFO: Hiding item.golemPlacer in NEI
+INFO: Hiding item.vat in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.chocolateMilk in NEI
+INFO: Hiding item.suicidePill in NEI
+INFO: Hiding item.nodeCheat in NEI
+INFO: Hiding item.meatnuggetTH in NEI
+INFO: Hiding item.meatTH in NEI
+INFO: Hiding item.null in NEI
+INFO: Hiding item.voidPutty in NEI
+INFO: Hiding tile.nitorGas in NEI
+INFO: Hiding tile.infusedFarmland in NEI
+INFO: Hiding tile.forcefield in NEI
+INFO: Hiding tile.infusedGrainBlock in NEI
+INFO: Hiding tile.gaseousLight in NEI
+INFO: Hiding tile.gaseousShadow in NEI
+INFO: Hiding item.mobAspect.infused in NEI
+INFO: Hiding item.infusedGrain in NEI
+INFO: Hiding item.thermalexpansion.florb.florb in NEI
+INFO: Hiding item.thermalexpansion.capacitor.creative in NEI
+INFO: Hiding tile.thermalexpansion.cell.creative.name in NEI
+INFO: Hiding tile.thermalexpansion.tank.creative.name in NEI
+INFO: Hiding tile.thermalexpansion.cache.creative.name in NEI
+INFO: Hiding tile.thermalexpansion.sponge.creative in NEI
+INFO: Hiding tile.thermalexpansion.workbench.creative.name in NEI
+INFO: Hiding tile.thermalexpansion.strongbox.creative.name in NEI
+INFO: Hiding item.thermalexpansion.tool.debugger in NEI
+INFO: Hiding tile.thermalfoundation.fluid.mana in NEI
+INFO: Hiding tile.thermalfoundation.fluid.steam in NEI
+INFO: Hiding tile.thermalfoundation.fluid.petrotheum in NEI
+INFO: Hiding tile.thermalfoundation.fluid.aerotheum in NEI
+INFO: Hiding tile.WG_CustomAir in NEI
+INFO: Hiding tile.WG_WoodenDevice.cuttingTable in NEI
+INFO: Hiding tile.WG_StoneDevice.magicTileLock in NEI
+INFO: Hiding tile.WG_StoneDevice.obsidianPlate in NEI
+INFO: Hiding tile.WG_StoneDevice.obsidianDecoration0 in NEI
+INFO: Hiding tile.WG_StoneDevice.sarcophagus in NEI
+INFO: Adding Stencil Table to ore dictionary entry stenciltable
+INFO: Adding Stencil Table to ore dictionary entry stenciltable
+INFO: Adding Stencil Table to ore dictionary entry stenciltable
+INFO: Adding Stencil Table to ore dictionary entry stenciltable
+INFO: Adding Part Builder to ore dictionary entry partbuilder
+INFO: Adding Part Builder to ore dictionary entry partbuilder
+INFO: Adding Part Builder to ore dictionary entry partbuilder
+INFO: Adding Part Builder to ore dictionary entry partbuilder
+INFO: Adding Oak Barrel to ore dictionary entry ebarrel
+INFO: Adding Spruce Barrel to ore dictionary entry ebarrel
+INFO: Adding Birch Barrel to ore dictionary entry ebarrel
+INFO: Adding Jungle Barrel to ore dictionary entry ebarrel
+INFO: Adding Acacia Barrel to ore dictionary entry ebarrel
+INFO: Adding Dark Oak Barrel to ore dictionary entry ebarrel
+INFO: Adding Wooden Hammer to ore dictionary entry ehammer
+INFO: Adding Stone Hammer to ore dictionary entry ehammer
+INFO: Adding Iron Hammer to ore dictionary entry ehammer
+INFO: Adding Gold Hammer to ore dictionary entry ehammer
+INFO: Adding Diamond Hammer to ore dictionary entry ehammer
+INFO: Adding Oak Sieve to ore dictionary entry sieve
+INFO: Adding Spruce Sieve to ore dictionary entry sieve
+INFO: Adding Birch Sieve to ore dictionary entry sieve
+INFO: Adding Jungle Sieve to ore dictionary entry sieve
+INFO: Adding Acacia Sieve to ore dictionary entry sieve
+INFO: Adding Dark Oak Sieve to ore dictionary entry sieve
+INFO: Removing 4 recipes
+INFO: Removing 0 recipes
+INFO: Adding recipe for Mirror
+INFO: Registering Research Tab: AGRIMANCY
+INFO: Registering Research: MAGICORES
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:1>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:2>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:3>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:4>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:5>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCustomOre:6>
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Adding Research Page to MAGICORES
+INFO: Registering Research: PROTECTION
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <TConstruct:heartCanister:1>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <TConstruct:heartCanister:3>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <TConstruct:heartCanister:5>
+INFO: Adding Research Page to PROTECTION
+INFO: Adding Research Page to PROTECTION
+INFO: Adding Research Page to PROTECTION
+INFO: Adding Research Page to PROTECTION
+INFO: Registering Research: SINFULL
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:1>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:2>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:3>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:4>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:5>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:NetherShard:6>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <ForbiddenMagic:GluttonyShard>
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: Adding Research Page to SINFULL
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Recall Stone
+INFO: Registering Research: RECALLSTONE
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <recallstones:recallStone>
+INFO: Adding Research Page to RECALLSTONE
+INFO: Adding Research Page to RECALLSTONE
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Dimensional Stone
+INFO: Registering Research: DIMENSIONSTONE
+INFO: [ModTweaker2] Adding 1 Thaumcraft Arcane Worktable Recipe(s) for <recallstones:dimensionStone>
+INFO: Adding Research Page to DIMENSIONSTONE
+INFO: Adding Research Page to DIMENSIONSTONE
+INFO: Adding Prerequisites to DIMENSIONSTONE
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Transposer (Fill) Recipe(s) for <ThermalFoundation:Ore:5>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:material:69>
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Green Heart Canister
+INFO: Adding recipe for Yellow Heart Canister
+INFO: Adding recipe for Red Heart Canister
+INFO: [ModTweaker2] Adding 1 TConstruct Drying Rack Recipe(s) for <harvestcraft:raisinsItem>
+INFO: [ModTweaker2] Adding 1 TConstruct Drying Rack Recipe(s) for <harvestcraft:raisinsItem>
+INFO: [ModTweaker2] Adding 1 TConstruct Drying Rack Recipe(s) for <harvestcraft:raisinsItem>
+INFO: [ModTweaker2] Adding 1 TConstruct Drying Rack Recipe(s) for <harvestcraft:raisinsItem>
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:spike_base>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:spike_base_gold>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:spike_base_diamond>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:creativebuilderswand>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:13>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:14>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:15>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:19>
+INFO: Removing 3 recipes
+INFO: Removing 3 recipes
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <harvestcraft:potItem>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <harvestcraft:saucepanItem>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:gearCast>
+WARNING: 6 modifications were stuck
+INFO: Stuck: Adding Research Page to MAGICORES
+INFO: Stuck: Hiding item.thermalexpansion.florb.florb in NEI
+INFO: Stuck: Hiding item.microblock in NEI
+INFO: Stuck: Hiding item.extrautils:microblocks.0 in NEI
+INFO: Stuck: Hiding tile.extrautils:drum.0 in NEI
+INFO: Stuck: Hiding item.appliedenergistics2.ItemFacade in NEI
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command exnihilo
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
+INFO: Adding minetweaker command thermalexpansion
